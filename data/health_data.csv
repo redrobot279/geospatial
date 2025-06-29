@@ -1,0 +1,937 @@
+﻿FREQ	Frequency	REF_AREA	Territory	DATA_TYPE	Indicator	MEASURE	Measure (DESC)	TIME_PERIOD	Observation	OBS_STATUS	Observation status
+A	Annual	IT	Italy	0_GOOD_H	Persons by health conditions and the presence of  chronic diseases: persons  in good health	HSC	Per 100 people with the same characteristics	2022	70.2		
+A	Annual	IT	Italy	0_GOOD_H	Persons by health conditions and the presence of  chronic diseases: persons  in good health	HSC	Per 100 people with the same characteristics	2023	68.7		
+A	Annual	IT	Italy	0_ALEAST_1CRON	Persons by health conditions and the presence of  chronic diseases: persons  at least a chronic disease	HSC	Per 100 people with the same characteristics	2022	40.4		
+A	Annual	IT	Italy	0_ALEAST_1CRON	Persons by health conditions and the presence of  chronic diseases: persons  at least a chronic disease	HSC	Per 100 people with the same characteristics	2023	40.5		
+A	Annual	IT	Italy	0_ALEAST_2CRON	Persons by health conditions and the presence of  chronic diseases: persons  at least two chronic disease	HSC	Per 100 people with the same characteristics	2022	21.5		
+A	Annual	IT	Italy	0_ALEAST_2CRON	Persons by health conditions and the presence of  chronic diseases: persons  at least two chronic disease	HSC	Per 100 people with the same characteristics	2023	20.8		
+A	Annual	IT	Italy	0_CHRONIC_GH	Persons  with chronic diseases in good health	HSC	Per 100 people with the same characteristics	2022	44.7		
+A	Annual	IT	Italy	0_CHRONIC_GH	Persons  with chronic diseases in good health	HSC	Per 100 people with the same characteristics	2023	42.9		
+A	Annual	IT	Italy	0_CHRONIC_DIAB	Chronic patients - suffering from diabetes	HSC	Per 100 people with the same characteristics	2022	6.6		
+A	Annual	IT	Italy	0_CHRONIC_DIAB	Chronic patients - suffering from diabetes	HSC	Per 100 people with the same characteristics	2023	6.3		
+A	Annual	IT	Italy	0_CHRONIC_HYP	Chronic patients - with hypertension	HSC	Per 100 people with the same characteristics	2022	18.6		
+A	Annual	IT	Italy	0_CHRONIC_HYP	Chronic patients - with hypertension	HSC	Per 100 people with the same characteristics	2023	18.9		
+A	Annual	IT	Italy	0_CHRONIC_BRONC	Chronic patients - suffering from chronic bronchitis	HSC	Per 100 people with the same characteristics	2022	6.2		
+A	Annual	IT	Italy	0_CHRONIC_BRONC	Chronic patients - suffering from chronic bronchitis	HSC	Per 100 people with the same characteristics	2023	6.1		
+A	Annual	IT	Italy	0_CHRONIC_ARTH	Chronic patients - suffering from osteoarthritis, arthritis	HSC	Per 100 people with the same characteristics	2022	14.9		
+A	Annual	IT	Italy	0_CHRONIC_ARTH	Chronic patients - suffering from osteoarthritis, arthritis	HSC	Per 100 people with the same characteristics	2023	14.6		
+A	Annual	IT	Italy	0_CHRONIC_OSTEO	Chronic patients - with osteoporosis	HSC	Per 100 people with the same characteristics	2022	7.9		
+A	Annual	IT	Italy	0_CHRONIC_OSTEO	Chronic patients - with osteoporosis	HSC	Per 100 people with the same characteristics	2023	7.7		
+A	Annual	IT	Italy	0_CHRONIC_HEART	Chronic patients - suffering from heart disease	HSC	Per 100 people with the same characteristics	2022	4.2		
+A	Annual	IT	Italy	0_CHRONIC_HEART	Chronic patients - suffering from heart disease	HSC	Per 100 people with the same characteristics	2023	4.3		
+A	Annual	IT	Italy	0_CHRONIC_ALLER	Chronic patients - suffering from allergic diseases	HSC	Per 100 people with the same characteristics	2022	11.7		
+A	Annual	IT	Italy	0_CHRONIC_ALLER	Chronic patients - suffering from allergic diseases	HSC	Per 100 people with the same characteristics	2023	10.9		
+A	Annual	IT	Italy	0_CHRONIC_NERVOUS	Chronic patients - suffering from nervous disorders	HSC	Per 100 people with the same characteristics	2022	4.7		
+A	Annual	IT	Italy	0_CHRONIC_NERVOUS	Chronic patients - suffering from nervous disorders	HSC	Per 100 people with the same characteristics	2023	4.7		
+A	Annual	IT	Italy	0_CHRONIC_GASTR	Chronic patients - suffering from gastric or duodenal ulcer	HSC	Per 100 people with the same characteristics	2022	2.1		
+A	Annual	IT	Italy	0_CHRONIC_GASTR	Chronic patients - suffering from gastric or duodenal ulcer	HSC	Per 100 people with the same characteristics	2023	2		
+A	Annual	ITCD	Nord	0_GOOD_H	Persons by health conditions and the presence of  chronic diseases: persons  in good health	HSC	Per 100 people with the same characteristics	2022	70.6		
+A	Annual	ITCD	Nord	0_GOOD_H	Persons by health conditions and the presence of  chronic diseases: persons  in good health	HSC	Per 100 people with the same characteristics	2023	70.2		
+A	Annual	ITCD	Nord	0_ALEAST_1CRON	Persons by health conditions and the presence of  chronic diseases: persons  at least a chronic disease	HSC	Per 100 people with the same characteristics	2022	40.8		
+A	Annual	ITCD	Nord	0_ALEAST_1CRON	Persons by health conditions and the presence of  chronic diseases: persons  at least a chronic disease	HSC	Per 100 people with the same characteristics	2023	40.6		
+A	Annual	ITCD	Nord	0_ALEAST_2CRON	Persons by health conditions and the presence of  chronic diseases: persons  at least two chronic disease	HSC	Per 100 people with the same characteristics	2022	20.7		
+A	Annual	ITCD	Nord	0_ALEAST_2CRON	Persons by health conditions and the presence of  chronic diseases: persons  at least two chronic disease	HSC	Per 100 people with the same characteristics	2023	19.8		
+A	Annual	ITCD	Nord	0_CHRONIC_GH	Persons  with chronic diseases in good health	HSC	Per 100 people with the same characteristics	2022	46.9		
+A	Annual	ITCD	Nord	0_CHRONIC_GH	Persons  with chronic diseases in good health	HSC	Per 100 people with the same characteristics	2023	46.2		
+A	Annual	ITCD	Nord	0_CHRONIC_DIAB	Chronic patients - suffering from diabetes	HSC	Per 100 people with the same characteristics	2022	6		
+A	Annual	ITCD	Nord	0_CHRONIC_DIAB	Chronic patients - suffering from diabetes	HSC	Per 100 people with the same characteristics	2023	5.8		
+A	Annual	ITCD	Nord	0_CHRONIC_HYP	Chronic patients - with hypertension	HSC	Per 100 people with the same characteristics	2022	17.7		
+A	Annual	ITCD	Nord	0_CHRONIC_HYP	Chronic patients - with hypertension	HSC	Per 100 people with the same characteristics	2023	18.4		
+A	Annual	ITCD	Nord	0_CHRONIC_BRONC	Chronic patients - suffering from chronic bronchitis	HSC	Per 100 people with the same characteristics	2022	6.2		
+A	Annual	ITCD	Nord	0_CHRONIC_BRONC	Chronic patients - suffering from chronic bronchitis	HSC	Per 100 people with the same characteristics	2023	5.9		
+A	Annual	ITCD	Nord	0_CHRONIC_ARTH	Chronic patients - suffering from osteoarthritis, arthritis	HSC	Per 100 people with the same characteristics	2022	14.4		
+A	Annual	ITCD	Nord	0_CHRONIC_ARTH	Chronic patients - suffering from osteoarthritis, arthritis	HSC	Per 100 people with the same characteristics	2023	13.8		
+A	Annual	ITCD	Nord	0_CHRONIC_OSTEO	Chronic patients - with osteoporosis	HSC	Per 100 people with the same characteristics	2022	7		
+A	Annual	ITCD	Nord	0_CHRONIC_OSTEO	Chronic patients - with osteoporosis	HSC	Per 100 people with the same characteristics	2023	6.7		
+A	Annual	ITCD	Nord	0_CHRONIC_HEART	Chronic patients - suffering from heart disease	HSC	Per 100 people with the same characteristics	2022	4.4		
+A	Annual	ITCD	Nord	0_CHRONIC_HEART	Chronic patients - suffering from heart disease	HSC	Per 100 people with the same characteristics	2023	4.2		
+A	Annual	ITCD	Nord	0_CHRONIC_ALLER	Chronic patients - suffering from allergic diseases	HSC	Per 100 people with the same characteristics	2022	11.4		
+A	Annual	ITCD	Nord	0_CHRONIC_ALLER	Chronic patients - suffering from allergic diseases	HSC	Per 100 people with the same characteristics	2023	10.6		
+A	Annual	ITCD	Nord	0_CHRONIC_NERVOUS	Chronic patients - suffering from nervous disorders	HSC	Per 100 people with the same characteristics	2022	4.6		
+A	Annual	ITCD	Nord	0_CHRONIC_NERVOUS	Chronic patients - suffering from nervous disorders	HSC	Per 100 people with the same characteristics	2023	4.3		
+A	Annual	ITCD	Nord	0_CHRONIC_GASTR	Chronic patients - suffering from gastric or duodenal ulcer	HSC	Per 100 people with the same characteristics	2022	1.9		
+A	Annual	ITCD	Nord	0_CHRONIC_GASTR	Chronic patients - suffering from gastric or duodenal ulcer	HSC	Per 100 people with the same characteristics	2023	2		
+A	Annual	ITC	Nord-ovest	0_GOOD_H	Persons by health conditions and the presence of  chronic diseases: persons  in good health	HSC	Per 100 people with the same characteristics	2022	70.5		
+A	Annual	ITC	Nord-ovest	0_GOOD_H	Persons by health conditions and the presence of  chronic diseases: persons  in good health	HSC	Per 100 people with the same characteristics	2023	69.5		
+A	Annual	ITC	Nord-ovest	0_ALEAST_1CRON	Persons by health conditions and the presence of  chronic diseases: persons  at least a chronic disease	HSC	Per 100 people with the same characteristics	2022	41.2		
+A	Annual	ITC	Nord-ovest	0_ALEAST_1CRON	Persons by health conditions and the presence of  chronic diseases: persons  at least a chronic disease	HSC	Per 100 people with the same characteristics	2023	41		
+A	Annual	ITC	Nord-ovest	0_ALEAST_2CRON	Persons by health conditions and the presence of  chronic diseases: persons  at least two chronic disease	HSC	Per 100 people with the same characteristics	2022	20.9		
+A	Annual	ITC	Nord-ovest	0_ALEAST_2CRON	Persons by health conditions and the presence of  chronic diseases: persons  at least two chronic disease	HSC	Per 100 people with the same characteristics	2023	20.1		
+A	Annual	ITC	Nord-ovest	0_CHRONIC_GH	Persons  with chronic diseases in good health	HSC	Per 100 people with the same characteristics	2022	47.6		
+A	Annual	ITC	Nord-ovest	0_CHRONIC_GH	Persons  with chronic diseases in good health	HSC	Per 100 people with the same characteristics	2023	45.1		
+A	Annual	ITC	Nord-ovest	0_CHRONIC_DIAB	Chronic patients - suffering from diabetes	HSC	Per 100 people with the same characteristics	2022	6.3		
+A	Annual	ITC	Nord-ovest	0_CHRONIC_DIAB	Chronic patients - suffering from diabetes	HSC	Per 100 people with the same characteristics	2023	6		
+A	Annual	ITC	Nord-ovest	0_CHRONIC_HYP	Chronic patients - with hypertension	HSC	Per 100 people with the same characteristics	2022	18		
+A	Annual	ITC	Nord-ovest	0_CHRONIC_HYP	Chronic patients - with hypertension	HSC	Per 100 people with the same characteristics	2023	18.7		
+A	Annual	ITC	Nord-ovest	0_CHRONIC_BRONC	Chronic patients - suffering from chronic bronchitis	HSC	Per 100 people with the same characteristics	2022	6.5		
+A	Annual	ITC	Nord-ovest	0_CHRONIC_BRONC	Chronic patients - suffering from chronic bronchitis	HSC	Per 100 people with the same characteristics	2023	5.6		
+A	Annual	ITC	Nord-ovest	0_CHRONIC_ARTH	Chronic patients - suffering from osteoarthritis, arthritis	HSC	Per 100 people with the same characteristics	2022	14		
+A	Annual	ITC	Nord-ovest	0_CHRONIC_ARTH	Chronic patients - suffering from osteoarthritis, arthritis	HSC	Per 100 people with the same characteristics	2023	13.6		
+A	Annual	ITC	Nord-ovest	0_CHRONIC_OSTEO	Chronic patients - with osteoporosis	HSC	Per 100 people with the same characteristics	2022	7.3		
+A	Annual	ITC	Nord-ovest	0_CHRONIC_OSTEO	Chronic patients - with osteoporosis	HSC	Per 100 people with the same characteristics	2023	7.2		
+A	Annual	ITC	Nord-ovest	0_CHRONIC_HEART	Chronic patients - suffering from heart disease	HSC	Per 100 people with the same characteristics	2022	4.5		
+A	Annual	ITC	Nord-ovest	0_CHRONIC_HEART	Chronic patients - suffering from heart disease	HSC	Per 100 people with the same characteristics	2023	3.9		
+A	Annual	ITC	Nord-ovest	0_CHRONIC_ALLER	Chronic patients - suffering from allergic diseases	HSC	Per 100 people with the same characteristics	2022	11.5		
+A	Annual	ITC	Nord-ovest	0_CHRONIC_ALLER	Chronic patients - suffering from allergic diseases	HSC	Per 100 people with the same characteristics	2023	10.8		
+A	Annual	ITC	Nord-ovest	0_CHRONIC_NERVOUS	Chronic patients - suffering from nervous disorders	HSC	Per 100 people with the same characteristics	2022	4.7		
+A	Annual	ITC	Nord-ovest	0_CHRONIC_NERVOUS	Chronic patients - suffering from nervous disorders	HSC	Per 100 people with the same characteristics	2023	4.1		
+A	Annual	ITC	Nord-ovest	0_CHRONIC_GASTR	Chronic patients - suffering from gastric or duodenal ulcer	HSC	Per 100 people with the same characteristics	2022	2		
+A	Annual	ITC	Nord-ovest	0_CHRONIC_GASTR	Chronic patients - suffering from gastric or duodenal ulcer	HSC	Per 100 people with the same characteristics	2023	1.9		
+A	Annual	ITC1	Piemonte	0_GOOD_H	Persons by health conditions and the presence of  chronic diseases: persons  in good health	HSC	Per 100 people with the same characteristics	2022	69.5		
+A	Annual	ITC1	Piemonte	0_GOOD_H	Persons by health conditions and the presence of  chronic diseases: persons  in good health	HSC	Per 100 people with the same characteristics	2023	68.9		
+A	Annual	ITC1	Piemonte	0_ALEAST_1CRON	Persons by health conditions and the presence of  chronic diseases: persons  at least a chronic disease	HSC	Per 100 people with the same characteristics	2022	41.6		
+A	Annual	ITC1	Piemonte	0_ALEAST_1CRON	Persons by health conditions and the presence of  chronic diseases: persons  at least a chronic disease	HSC	Per 100 people with the same characteristics	2023	41.5		
+A	Annual	ITC1	Piemonte	0_ALEAST_2CRON	Persons by health conditions and the presence of  chronic diseases: persons  at least two chronic disease	HSC	Per 100 people with the same characteristics	2022	21.7		
+A	Annual	ITC1	Piemonte	0_ALEAST_2CRON	Persons by health conditions and the presence of  chronic diseases: persons  at least two chronic disease	HSC	Per 100 people with the same characteristics	2023	20.4		
+A	Annual	ITC1	Piemonte	0_CHRONIC_GH	Persons  with chronic diseases in good health	HSC	Per 100 people with the same characteristics	2022	43.2		
+A	Annual	ITC1	Piemonte	0_CHRONIC_GH	Persons  with chronic diseases in good health	HSC	Per 100 people with the same characteristics	2023	45.6		
+A	Annual	ITC1	Piemonte	0_CHRONIC_DIAB	Chronic patients - suffering from diabetes	HSC	Per 100 people with the same characteristics	2022	7.1		
+A	Annual	ITC1	Piemonte	0_CHRONIC_DIAB	Chronic patients - suffering from diabetes	HSC	Per 100 people with the same characteristics	2023	6.3		
+A	Annual	ITC1	Piemonte	0_CHRONIC_HYP	Chronic patients - with hypertension	HSC	Per 100 people with the same characteristics	2022	17.6		
+A	Annual	ITC1	Piemonte	0_CHRONIC_HYP	Chronic patients - with hypertension	HSC	Per 100 people with the same characteristics	2023	19.6		
+A	Annual	ITC1	Piemonte	0_CHRONIC_BRONC	Chronic patients - suffering from chronic bronchitis	HSC	Per 100 people with the same characteristics	2022	5.8		
+A	Annual	ITC1	Piemonte	0_CHRONIC_BRONC	Chronic patients - suffering from chronic bronchitis	HSC	Per 100 people with the same characteristics	2023	6		
+A	Annual	ITC1	Piemonte	0_CHRONIC_ARTH	Chronic patients - suffering from osteoarthritis, arthritis	HSC	Per 100 people with the same characteristics	2022	15		
+A	Annual	ITC1	Piemonte	0_CHRONIC_ARTH	Chronic patients - suffering from osteoarthritis, arthritis	HSC	Per 100 people with the same characteristics	2023	14.4		
+A	Annual	ITC1	Piemonte	0_CHRONIC_OSTEO	Chronic patients - with osteoporosis	HSC	Per 100 people with the same characteristics	2022	7.1		
+A	Annual	ITC1	Piemonte	0_CHRONIC_OSTEO	Chronic patients - with osteoporosis	HSC	Per 100 people with the same characteristics	2023	6		
+A	Annual	ITC1	Piemonte	0_CHRONIC_HEART	Chronic patients - suffering from heart disease	HSC	Per 100 people with the same characteristics	2022	5.1		
+A	Annual	ITC1	Piemonte	0_CHRONIC_HEART	Chronic patients - suffering from heart disease	HSC	Per 100 people with the same characteristics	2023	3.8		
+A	Annual	ITC1	Piemonte	0_CHRONIC_ALLER	Chronic patients - suffering from allergic diseases	HSC	Per 100 people with the same characteristics	2022	11.8		
+A	Annual	ITC1	Piemonte	0_CHRONIC_ALLER	Chronic patients - suffering from allergic diseases	HSC	Per 100 people with the same characteristics	2023	9.7		
+A	Annual	ITC1	Piemonte	0_CHRONIC_NERVOUS	Chronic patients - suffering from nervous disorders	HSC	Per 100 people with the same characteristics	2022	4.4		
+A	Annual	ITC1	Piemonte	0_CHRONIC_NERVOUS	Chronic patients - suffering from nervous disorders	HSC	Per 100 people with the same characteristics	2023	4.6		
+A	Annual	ITC1	Piemonte	0_CHRONIC_GASTR	Chronic patients - suffering from gastric or duodenal ulcer	HSC	Per 100 people with the same characteristics	2022	2.2		
+A	Annual	ITC1	Piemonte	0_CHRONIC_GASTR	Chronic patients - suffering from gastric or duodenal ulcer	HSC	Per 100 people with the same characteristics	2023	2.4		
+A	Annual	ITC2	"'Valle d""'Aosta / Vallée d""'Aoste'"	0_GOOD_H	Persons by health conditions and the presence of  chronic diseases: persons  in good health	HSC	Per 100 people with the same characteristics	2022	71.1		
+A	Annual	ITC2	"'Valle d""'Aosta / Vallée d""'Aoste'"	0_GOOD_H	Persons by health conditions and the presence of  chronic diseases: persons  in good health	HSC	Per 100 people with the same characteristics	2023	74.4		
+A	Annual	ITC2	"'Valle d""'Aosta / Vallée d""'Aoste'"	0_ALEAST_1CRON	Persons by health conditions and the presence of  chronic diseases: persons  at least a chronic disease	HSC	Per 100 people with the same characteristics	2022	40.6		
+A	Annual	ITC2	"'Valle d""'Aosta / Vallée d""'Aoste'"	0_ALEAST_1CRON	Persons by health conditions and the presence of  chronic diseases: persons  at least a chronic disease	HSC	Per 100 people with the same characteristics	2023	39.6		
+A	Annual	ITC2	"'Valle d""'Aosta / Vallée d""'Aoste'"	0_ALEAST_2CRON	Persons by health conditions and the presence of  chronic diseases: persons  at least two chronic disease	HSC	Per 100 people with the same characteristics	2022	19.8		
+A	Annual	ITC2	"'Valle d""'Aosta / Vallée d""'Aoste'"	0_ALEAST_2CRON	Persons by health conditions and the presence of  chronic diseases: persons  at least two chronic disease	HSC	Per 100 people with the same characteristics	2023	20.4		
+A	Annual	ITC2	"'Valle d""'Aosta / Vallée d""'Aoste'"	0_CHRONIC_GH	Persons  with chronic diseases in good health	HSC	Per 100 people with the same characteristics	2022	48		
+A	Annual	ITC2	"'Valle d""'Aosta / Vallée d""'Aoste'"	0_CHRONIC_GH	Persons  with chronic diseases in good health	HSC	Per 100 people with the same characteristics	2023	51.7		
+A	Annual	ITC2	"'Valle d""'Aosta / Vallée d""'Aoste'"	0_CHRONIC_DIAB	Chronic patients - suffering from diabetes	HSC	Per 100 people with the same characteristics	2022	4.8		
+A	Annual	ITC2	"'Valle d""'Aosta / Vallée d""'Aoste'"	0_CHRONIC_DIAB	Chronic patients - suffering from diabetes	HSC	Per 100 people with the same characteristics	2023	4.7		
+A	Annual	ITC2	"'Valle d""'Aosta / Vallée d""'Aoste'"	0_CHRONIC_HYP	Chronic patients - with hypertension	HSC	Per 100 people with the same characteristics	2022	15		
+A	Annual	ITC2	"'Valle d""'Aosta / Vallée d""'Aoste'"	0_CHRONIC_HYP	Chronic patients - with hypertension	HSC	Per 100 people with the same characteristics	2023	17.3		
+A	Annual	ITC2	"'Valle d""'Aosta / Vallée d""'Aoste'"	0_CHRONIC_BRONC	Chronic patients - suffering from chronic bronchitis	HSC	Per 100 people with the same characteristics	2022	5.3		
+A	Annual	ITC2	"'Valle d""'Aosta / Vallée d""'Aoste'"	0_CHRONIC_BRONC	Chronic patients - suffering from chronic bronchitis	HSC	Per 100 people with the same characteristics	2023	4.1		
+A	Annual	ITC2	"'Valle d""'Aosta / Vallée d""'Aoste'"	0_CHRONIC_ARTH	Chronic patients - suffering from osteoarthritis, arthritis	HSC	Per 100 people with the same characteristics	2022	14.9		
+A	Annual	ITC2	"'Valle d""'Aosta / Vallée d""'Aoste'"	0_CHRONIC_ARTH	Chronic patients - suffering from osteoarthritis, arthritis	HSC	Per 100 people with the same characteristics	2023	14.2		
+A	Annual	ITC2	"'Valle d""'Aosta / Vallée d""'Aoste'"	0_CHRONIC_OSTEO	Chronic patients - with osteoporosis	HSC	Per 100 people with the same characteristics	2022	6.5		
+A	Annual	ITC2	"'Valle d""'Aosta / Vallée d""'Aoste'"	0_CHRONIC_OSTEO	Chronic patients - with osteoporosis	HSC	Per 100 people with the same characteristics	2023	7.6		
+A	Annual	ITC2	"'Valle d""'Aosta / Vallée d""'Aoste'"	0_CHRONIC_HEART	Chronic patients - suffering from heart disease	HSC	Per 100 people with the same characteristics	2022	3.8		
+A	Annual	ITC2	"'Valle d""'Aosta / Vallée d""'Aoste'"	0_CHRONIC_HEART	Chronic patients - suffering from heart disease	HSC	Per 100 people with the same characteristics	2023	4.5		
+A	Annual	ITC2	"'Valle d""'Aosta / Vallée d""'Aoste'"	0_CHRONIC_ALLER	Chronic patients - suffering from allergic diseases	HSC	Per 100 people with the same characteristics	2022	11.7		
+A	Annual	ITC2	"'Valle d""'Aosta / Vallée d""'Aoste'"	0_CHRONIC_ALLER	Chronic patients - suffering from allergic diseases	HSC	Per 100 people with the same characteristics	2023	9.9		
+A	Annual	ITC2	"'Valle d""'Aosta / Vallée d""'Aoste'"	0_CHRONIC_NERVOUS	Chronic patients - suffering from nervous disorders	HSC	Per 100 people with the same characteristics	2022	4.8		
+A	Annual	ITC2	"'Valle d""'Aosta / Vallée d""'Aoste'"	0_CHRONIC_NERVOUS	Chronic patients - suffering from nervous disorders	HSC	Per 100 people with the same characteristics	2023	5.1		
+A	Annual	ITC2	"'Valle d""'Aosta / Vallée d""'Aoste'"	0_CHRONIC_GASTR	Chronic patients - suffering from gastric or duodenal ulcer	HSC	Per 100 people with the same characteristics	2022	2.5		
+A	Annual	ITC2	"'Valle d""'Aosta / Vallée d""'Aoste'"	0_CHRONIC_GASTR	Chronic patients - suffering from gastric or duodenal ulcer	HSC	Per 100 people with the same characteristics	2023	1.9		
+A	Annual	ITC3	Liguria	0_GOOD_H	Persons by health conditions and the presence of  chronic diseases: persons  in good health	HSC	Per 100 people with the same characteristics	2022	66.1		
+A	Annual	ITC3	Liguria	0_GOOD_H	Persons by health conditions and the presence of  chronic diseases: persons  in good health	HSC	Per 100 people with the same characteristics	2023	65.9		
+A	Annual	ITC3	Liguria	0_ALEAST_1CRON	Persons by health conditions and the presence of  chronic diseases: persons  at least a chronic disease	HSC	Per 100 people with the same characteristics	2022	43		
+A	Annual	ITC3	Liguria	0_ALEAST_1CRON	Persons by health conditions and the presence of  chronic diseases: persons  at least a chronic disease	HSC	Per 100 people with the same characteristics	2023	43.9		
+A	Annual	ITC3	Liguria	0_ALEAST_2CRON	Persons by health conditions and the presence of  chronic diseases: persons  at least two chronic disease	HSC	Per 100 people with the same characteristics	2022	24.1		
+A	Annual	ITC3	Liguria	0_ALEAST_2CRON	Persons by health conditions and the presence of  chronic diseases: persons  at least two chronic disease	HSC	Per 100 people with the same characteristics	2023	22.6		
+A	Annual	ITC3	Liguria	0_CHRONIC_GH	Persons  with chronic diseases in good health	HSC	Per 100 people with the same characteristics	2022	38.3		
+A	Annual	ITC3	Liguria	0_CHRONIC_GH	Persons  with chronic diseases in good health	HSC	Per 100 people with the same characteristics	2023	42.2		
+A	Annual	ITC3	Liguria	0_CHRONIC_DIAB	Chronic patients - suffering from diabetes	HSC	Per 100 people with the same characteristics	2022	7.2		
+A	Annual	ITC3	Liguria	0_CHRONIC_DIAB	Chronic patients - suffering from diabetes	HSC	Per 100 people with the same characteristics	2023	5.5		
+A	Annual	ITC3	Liguria	0_CHRONIC_HYP	Chronic patients - with hypertension	HSC	Per 100 people with the same characteristics	2022	21.1		
+A	Annual	ITC3	Liguria	0_CHRONIC_HYP	Chronic patients - with hypertension	HSC	Per 100 people with the same characteristics	2023	19.3		
+A	Annual	ITC3	Liguria	0_CHRONIC_BRONC	Chronic patients - suffering from chronic bronchitis	HSC	Per 100 people with the same characteristics	2022	6.3		
+A	Annual	ITC3	Liguria	0_CHRONIC_BRONC	Chronic patients - suffering from chronic bronchitis	HSC	Per 100 people with the same characteristics	2023	6.4		
+A	Annual	ITC3	Liguria	0_CHRONIC_ARTH	Chronic patients - suffering from osteoarthritis, arthritis	HSC	Per 100 people with the same characteristics	2022	18		
+A	Annual	ITC3	Liguria	0_CHRONIC_ARTH	Chronic patients - suffering from osteoarthritis, arthritis	HSC	Per 100 people with the same characteristics	2023	17.5		
+A	Annual	ITC3	Liguria	0_CHRONIC_OSTEO	Chronic patients - with osteoporosis	HSC	Per 100 people with the same characteristics	2022	10.4		
+A	Annual	ITC3	Liguria	0_CHRONIC_OSTEO	Chronic patients - with osteoporosis	HSC	Per 100 people with the same characteristics	2023	9.1		
+A	Annual	ITC3	Liguria	0_CHRONIC_HEART	Chronic patients - suffering from heart disease	HSC	Per 100 people with the same characteristics	2022	4.4		
+A	Annual	ITC3	Liguria	0_CHRONIC_HEART	Chronic patients - suffering from heart disease	HSC	Per 100 people with the same characteristics	2023	4.4		
+A	Annual	ITC3	Liguria	0_CHRONIC_ALLER	Chronic patients - suffering from allergic diseases	HSC	Per 100 people with the same characteristics	2022	9.2		
+A	Annual	ITC3	Liguria	0_CHRONIC_ALLER	Chronic patients - suffering from allergic diseases	HSC	Per 100 people with the same characteristics	2023	10.3		
+A	Annual	ITC3	Liguria	0_CHRONIC_NERVOUS	Chronic patients - suffering from nervous disorders	HSC	Per 100 people with the same characteristics	2022	6.1		
+A	Annual	ITC3	Liguria	0_CHRONIC_NERVOUS	Chronic patients - suffering from nervous disorders	HSC	Per 100 people with the same characteristics	2023	4.4		
+A	Annual	ITC3	Liguria	0_CHRONIC_GASTR	Chronic patients - suffering from gastric or duodenal ulcer	HSC	Per 100 people with the same characteristics	2022	2.2		
+A	Annual	ITC3	Liguria	0_CHRONIC_GASTR	Chronic patients - suffering from gastric or duodenal ulcer	HSC	Per 100 people with the same characteristics	2023	2.3		
+A	Annual	ITC4	Lombardia	0_GOOD_H	Persons by health conditions and the presence of  chronic diseases: persons  in good health	HSC	Per 100 people with the same characteristics	2022	71.6		
+A	Annual	ITC4	Lombardia	0_GOOD_H	Persons by health conditions and the presence of  chronic diseases: persons  in good health	HSC	Per 100 people with the same characteristics	2023	70.3		
+A	Annual	ITC4	Lombardia	0_ALEAST_1CRON	Persons by health conditions and the presence of  chronic diseases: persons  at least a chronic disease	HSC	Per 100 people with the same characteristics	2022	40.7		
+A	Annual	ITC4	Lombardia	0_ALEAST_1CRON	Persons by health conditions and the presence of  chronic diseases: persons  at least a chronic disease	HSC	Per 100 people with the same characteristics	2023	40.4		
+A	Annual	ITC4	Lombardia	0_ALEAST_2CRON	Persons by health conditions and the presence of  chronic diseases: persons  at least two chronic disease	HSC	Per 100 people with the same characteristics	2022	20.1		
+A	Annual	ITC4	Lombardia	0_ALEAST_2CRON	Persons by health conditions and the presence of  chronic diseases: persons  at least two chronic disease	HSC	Per 100 people with the same characteristics	2023	19.5		
+A	Annual	ITC4	Lombardia	0_CHRONIC_GH	Persons  with chronic diseases in good health	HSC	Per 100 people with the same characteristics	2022	50.9		
+A	Annual	ITC4	Lombardia	0_CHRONIC_GH	Persons  with chronic diseases in good health	HSC	Per 100 people with the same characteristics	2023	45.3		
+A	Annual	ITC4	Lombardia	0_CHRONIC_DIAB	Chronic patients - suffering from diabetes	HSC	Per 100 people with the same characteristics	2022	5.9		
+A	Annual	ITC4	Lombardia	0_CHRONIC_DIAB	Chronic patients - suffering from diabetes	HSC	Per 100 people with the same characteristics	2023	5.9		
+A	Annual	ITC4	Lombardia	0_CHRONIC_HYP	Chronic patients - with hypertension	HSC	Per 100 people with the same characteristics	2022	17.8		
+A	Annual	ITC4	Lombardia	0_CHRONIC_HYP	Chronic patients - with hypertension	HSC	Per 100 people with the same characteristics	2023	18.2		
+A	Annual	ITC4	Lombardia	0_CHRONIC_BRONC	Chronic patients - suffering from chronic bronchitis	HSC	Per 100 people with the same characteristics	2022	6.8		
+A	Annual	ITC4	Lombardia	0_CHRONIC_BRONC	Chronic patients - suffering from chronic bronchitis	HSC	Per 100 people with the same characteristics	2023	5.3		
+A	Annual	ITC4	Lombardia	0_CHRONIC_ARTH	Chronic patients - suffering from osteoarthritis, arthritis	HSC	Per 100 people with the same characteristics	2022	13		
+A	Annual	ITC4	Lombardia	0_CHRONIC_ARTH	Chronic patients - suffering from osteoarthritis, arthritis	HSC	Per 100 people with the same characteristics	2023	12.7		
+A	Annual	ITC4	Lombardia	0_CHRONIC_OSTEO	Chronic patients - with osteoporosis	HSC	Per 100 people with the same characteristics	2022	6.9		
+A	Annual	ITC4	Lombardia	0_CHRONIC_OSTEO	Chronic patients - with osteoporosis	HSC	Per 100 people with the same characteristics	2023	7.4		
+A	Annual	ITC4	Lombardia	0_CHRONIC_HEART	Chronic patients - suffering from heart disease	HSC	Per 100 people with the same characteristics	2022	4.2		
+A	Annual	ITC4	Lombardia	0_CHRONIC_HEART	Chronic patients - suffering from heart disease	HSC	Per 100 people with the same characteristics	2023	3.8		
+A	Annual	ITC4	Lombardia	0_CHRONIC_ALLER	Chronic patients - suffering from allergic diseases	HSC	Per 100 people with the same characteristics	2022	11.7		
+A	Annual	ITC4	Lombardia	0_CHRONIC_ALLER	Chronic patients - suffering from allergic diseases	HSC	Per 100 people with the same characteristics	2023	11.3		
+A	Annual	ITC4	Lombardia	0_CHRONIC_NERVOUS	Chronic patients - suffering from nervous disorders	HSC	Per 100 people with the same characteristics	2022	4.6		
+A	Annual	ITC4	Lombardia	0_CHRONIC_NERVOUS	Chronic patients - suffering from nervous disorders	HSC	Per 100 people with the same characteristics	2023	3.9		
+A	Annual	ITC4	Lombardia	0_CHRONIC_GASTR	Chronic patients - suffering from gastric or duodenal ulcer	HSC	Per 100 people with the same characteristics	2022	1.8		
+A	Annual	ITC4	Lombardia	0_CHRONIC_GASTR	Chronic patients - suffering from gastric or duodenal ulcer	HSC	Per 100 people with the same characteristics	2023	1.6		
+A	Annual	ITD	Nord-est	0_GOOD_H	Persons by health conditions and the presence of  chronic diseases: persons  in good health	HSC	Per 100 people with the same characteristics	2022	70.7		
+A	Annual	ITD	Nord-est	0_GOOD_H	Persons by health conditions and the presence of  chronic diseases: persons  in good health	HSC	Per 100 people with the same characteristics	2023	71.1		
+A	Annual	ITD	Nord-est	0_ALEAST_1CRON	Persons by health conditions and the presence of  chronic diseases: persons  at least a chronic disease	HSC	Per 100 people with the same characteristics	2022	40.4		
+A	Annual	ITD	Nord-est	0_ALEAST_1CRON	Persons by health conditions and the presence of  chronic diseases: persons  at least a chronic disease	HSC	Per 100 people with the same characteristics	2023	40.1		
+A	Annual	ITD	Nord-est	0_ALEAST_2CRON	Persons by health conditions and the presence of  chronic diseases: persons  at least two chronic disease	HSC	Per 100 people with the same characteristics	2022	20.4		
+A	Annual	ITD	Nord-est	0_ALEAST_2CRON	Persons by health conditions and the presence of  chronic diseases: persons  at least two chronic disease	HSC	Per 100 people with the same characteristics	2023	19.4		
+A	Annual	ITD	Nord-est	0_CHRONIC_GH	Persons  with chronic diseases in good health	HSC	Per 100 people with the same characteristics	2022	45.9		
+A	Annual	ITD	Nord-est	0_CHRONIC_GH	Persons  with chronic diseases in good health	HSC	Per 100 people with the same characteristics	2023	47.7		
+A	Annual	ITD	Nord-est	0_CHRONIC_DIAB	Chronic patients - suffering from diabetes	HSC	Per 100 people with the same characteristics	2022	5.5		
+A	Annual	ITD	Nord-est	0_CHRONIC_DIAB	Chronic patients - suffering from diabetes	HSC	Per 100 people with the same characteristics	2023	5.4		
+A	Annual	ITD	Nord-est	0_CHRONIC_HYP	Chronic patients - with hypertension	HSC	Per 100 people with the same characteristics	2022	17.1		
+A	Annual	ITD	Nord-est	0_CHRONIC_HYP	Chronic patients - with hypertension	HSC	Per 100 people with the same characteristics	2023	18		
+A	Annual	ITD	Nord-est	0_CHRONIC_BRONC	Chronic patients - suffering from chronic bronchitis	HSC	Per 100 people with the same characteristics	2022	5.8		
+A	Annual	ITD	Nord-est	0_CHRONIC_BRONC	Chronic patients - suffering from chronic bronchitis	HSC	Per 100 people with the same characteristics	2023	6.2		
+A	Annual	ITD	Nord-est	0_CHRONIC_ARTH	Chronic patients - suffering from osteoarthritis, arthritis	HSC	Per 100 people with the same characteristics	2022	14.8		
+A	Annual	ITD	Nord-est	0_CHRONIC_ARTH	Chronic patients - suffering from osteoarthritis, arthritis	HSC	Per 100 people with the same characteristics	2023	14		
+A	Annual	ITD	Nord-est	0_CHRONIC_OSTEO	Chronic patients - with osteoporosis	HSC	Per 100 people with the same characteristics	2022	6.5		
+A	Annual	ITD	Nord-est	0_CHRONIC_OSTEO	Chronic patients - with osteoporosis	HSC	Per 100 people with the same characteristics	2023	6.1		
+A	Annual	ITD	Nord-est	0_CHRONIC_HEART	Chronic patients - suffering from heart disease	HSC	Per 100 people with the same characteristics	2022	4.4		
+A	Annual	ITD	Nord-est	0_CHRONIC_HEART	Chronic patients - suffering from heart disease	HSC	Per 100 people with the same characteristics	2023	4.8		
+A	Annual	ITD	Nord-est	0_CHRONIC_ALLER	Chronic patients - suffering from allergic diseases	HSC	Per 100 people with the same characteristics	2022	11.3		
+A	Annual	ITD	Nord-est	0_CHRONIC_ALLER	Chronic patients - suffering from allergic diseases	HSC	Per 100 people with the same characteristics	2023	10.4		
+A	Annual	ITD	Nord-est	0_CHRONIC_NERVOUS	Chronic patients - suffering from nervous disorders	HSC	Per 100 people with the same characteristics	2022	4.6		
+A	Annual	ITD	Nord-est	0_CHRONIC_NERVOUS	Chronic patients - suffering from nervous disorders	HSC	Per 100 people with the same characteristics	2023	4.5		
+A	Annual	ITD	Nord-est	0_CHRONIC_GASTR	Chronic patients - suffering from gastric or duodenal ulcer	HSC	Per 100 people with the same characteristics	2022	1.9		
+A	Annual	ITD	Nord-est	0_CHRONIC_GASTR	Chronic patients - suffering from gastric or duodenal ulcer	HSC	Per 100 people with the same characteristics	2023	2.1		
+A	Annual	ITDA	Trentino Alto Adige / Südtirol	0_GOOD_H	Persons by health conditions and the presence of  chronic diseases: persons  in good health	HSC	Per 100 people with the same characteristics	2022	79.5		
+A	Annual	ITDA	Trentino Alto Adige / Südtirol	0_GOOD_H	Persons by health conditions and the presence of  chronic diseases: persons  in good health	HSC	Per 100 people with the same characteristics	2023	77.5		
+A	Annual	ITDA	Trentino Alto Adige / Südtirol	0_ALEAST_1CRON	Persons by health conditions and the presence of  chronic diseases: persons  at least a chronic disease	HSC	Per 100 people with the same characteristics	2022	34.5		
+A	Annual	ITDA	Trentino Alto Adige / Südtirol	0_ALEAST_1CRON	Persons by health conditions and the presence of  chronic diseases: persons  at least a chronic disease	HSC	Per 100 people with the same characteristics	2023	33.3		
+A	Annual	ITDA	Trentino Alto Adige / Südtirol	0_ALEAST_2CRON	Persons by health conditions and the presence of  chronic diseases: persons  at least two chronic disease	HSC	Per 100 people with the same characteristics	2022	14.9		
+A	Annual	ITDA	Trentino Alto Adige / Südtirol	0_ALEAST_2CRON	Persons by health conditions and the presence of  chronic diseases: persons  at least two chronic disease	HSC	Per 100 people with the same characteristics	2023	15.1		
+A	Annual	ITDA	Trentino Alto Adige / Südtirol	0_CHRONIC_GH	Persons  with chronic diseases in good health	HSC	Per 100 people with the same characteristics	2022	56.6		
+A	Annual	ITDA	Trentino Alto Adige / Südtirol	0_CHRONIC_GH	Persons  with chronic diseases in good health	HSC	Per 100 people with the same characteristics	2023	56.9		
+A	Annual	ITDA	Trentino Alto Adige / Südtirol	0_CHRONIC_DIAB	Chronic patients - suffering from diabetes	HSC	Per 100 people with the same characteristics	2022	4.7		
+A	Annual	ITDA	Trentino Alto Adige / Südtirol	0_CHRONIC_DIAB	Chronic patients - suffering from diabetes	HSC	Per 100 people with the same characteristics	2023	3.6		
+A	Annual	ITDA	Trentino Alto Adige / Südtirol	0_CHRONIC_HYP	Chronic patients - with hypertension	HSC	Per 100 people with the same characteristics	2022	14.7		
+A	Annual	ITDA	Trentino Alto Adige / Südtirol	0_CHRONIC_HYP	Chronic patients - with hypertension	HSC	Per 100 people with the same characteristics	2023	13		
+A	Annual	ITDA	Trentino Alto Adige / Südtirol	0_CHRONIC_BRONC	Chronic patients - suffering from chronic bronchitis	HSC	Per 100 people with the same characteristics	2022	4.4		
+A	Annual	ITDA	Trentino Alto Adige / Südtirol	0_CHRONIC_BRONC	Chronic patients - suffering from chronic bronchitis	HSC	Per 100 people with the same characteristics	2023	5.2		
+A	Annual	ITDA	Trentino Alto Adige / Südtirol	0_CHRONIC_ARTH	Chronic patients - suffering from osteoarthritis, arthritis	HSC	Per 100 people with the same characteristics	2022	10.1		
+A	Annual	ITDA	Trentino Alto Adige / Südtirol	0_CHRONIC_ARTH	Chronic patients - suffering from osteoarthritis, arthritis	HSC	Per 100 people with the same characteristics	2023	10.3		
+A	Annual	ITDA	Trentino Alto Adige / Südtirol	0_CHRONIC_OSTEO	Chronic patients - with osteoporosis	HSC	Per 100 people with the same characteristics	2022	3.7		
+A	Annual	ITDA	Trentino Alto Adige / Südtirol	0_CHRONIC_OSTEO	Chronic patients - with osteoporosis	HSC	Per 100 people with the same characteristics	2023	4.4		
+A	Annual	ITDA	Trentino Alto Adige / Südtirol	0_CHRONIC_HEART	Chronic patients - suffering from heart disease	HSC	Per 100 people with the same characteristics	2022	4		
+A	Annual	ITDA	Trentino Alto Adige / Südtirol	0_CHRONIC_HEART	Chronic patients - suffering from heart disease	HSC	Per 100 people with the same characteristics	2023	2.9		
+A	Annual	ITDA	Trentino Alto Adige / Südtirol	0_CHRONIC_ALLER	Chronic patients - suffering from allergic diseases	HSC	Per 100 people with the same characteristics	2022	10.7		
+A	Annual	ITDA	Trentino Alto Adige / Südtirol	0_CHRONIC_ALLER	Chronic patients - suffering from allergic diseases	HSC	Per 100 people with the same characteristics	2023	9.9		
+A	Annual	ITDA	Trentino Alto Adige / Südtirol	0_CHRONIC_NERVOUS	Chronic patients - suffering from nervous disorders	HSC	Per 100 people with the same characteristics	2022	3.8		
+A	Annual	ITDA	Trentino Alto Adige / Südtirol	0_CHRONIC_NERVOUS	Chronic patients - suffering from nervous disorders	HSC	Per 100 people with the same characteristics	2023	4		
+A	Annual	ITDA	Trentino Alto Adige / Südtirol	0_CHRONIC_GASTR	Chronic patients - suffering from gastric or duodenal ulcer	HSC	Per 100 people with the same characteristics	2022	1.7		
+A	Annual	ITDA	Trentino Alto Adige / Südtirol	0_CHRONIC_GASTR	Chronic patients - suffering from gastric or duodenal ulcer	HSC	Per 100 people with the same characteristics	2023	1.5		
+A	Annual	ITD1	Provincia Autonoma Bolzano / Bozen	0_GOOD_H	Persons by health conditions and the presence of  chronic diseases: persons  in good health	HSC	Per 100 people with the same characteristics	2022	83.9		
+A	Annual	ITD1	Provincia Autonoma Bolzano / Bozen	0_GOOD_H	Persons by health conditions and the presence of  chronic diseases: persons  in good health	HSC	Per 100 people with the same characteristics	2023	79.6		
+A	Annual	ITD1	Provincia Autonoma Bolzano / Bozen	0_ALEAST_1CRON	Persons by health conditions and the presence of  chronic diseases: persons  at least a chronic disease	HSC	Per 100 people with the same characteristics	2022	31.2		
+A	Annual	ITD1	Provincia Autonoma Bolzano / Bozen	0_ALEAST_1CRON	Persons by health conditions and the presence of  chronic diseases: persons  at least a chronic disease	HSC	Per 100 people with the same characteristics	2023	29.7		
+A	Annual	ITD1	Provincia Autonoma Bolzano / Bozen	0_ALEAST_2CRON	Persons by health conditions and the presence of  chronic diseases: persons  at least two chronic disease	HSC	Per 100 people with the same characteristics	2022	11.4		
+A	Annual	ITD1	Provincia Autonoma Bolzano / Bozen	0_ALEAST_2CRON	Persons by health conditions and the presence of  chronic diseases: persons  at least two chronic disease	HSC	Per 100 people with the same characteristics	2023	13.1		
+A	Annual	ITD1	Provincia Autonoma Bolzano / Bozen	0_CHRONIC_GH	Persons  with chronic diseases in good health	HSC	Per 100 people with the same characteristics	2022	61.4		
+A	Annual	ITD1	Provincia Autonoma Bolzano / Bozen	0_CHRONIC_GH	Persons  with chronic diseases in good health	HSC	Per 100 people with the same characteristics	2023	59.2		
+A	Annual	ITD1	Provincia Autonoma Bolzano / Bozen	0_CHRONIC_DIAB	Chronic patients - suffering from diabetes	HSC	Per 100 people with the same characteristics	2022	3.5		
+A	Annual	ITD1	Provincia Autonoma Bolzano / Bozen	0_CHRONIC_DIAB	Chronic patients - suffering from diabetes	HSC	Per 100 people with the same characteristics	2023	3.5		
+A	Annual	ITD1	Provincia Autonoma Bolzano / Bozen	0_CHRONIC_HYP	Chronic patients - with hypertension	HSC	Per 100 people with the same characteristics	2022	13.8		
+A	Annual	ITD1	Provincia Autonoma Bolzano / Bozen	0_CHRONIC_HYP	Chronic patients - with hypertension	HSC	Per 100 people with the same characteristics	2023	11.8		
+A	Annual	ITD1	Provincia Autonoma Bolzano / Bozen	0_CHRONIC_BRONC	Chronic patients - suffering from chronic bronchitis	HSC	Per 100 people with the same characteristics	2022	3.5		
+A	Annual	ITD1	Provincia Autonoma Bolzano / Bozen	0_CHRONIC_BRONC	Chronic patients - suffering from chronic bronchitis	HSC	Per 100 people with the same characteristics	2023	4.4		
+A	Annual	ITD1	Provincia Autonoma Bolzano / Bozen	0_CHRONIC_ARTH	Chronic patients - suffering from osteoarthritis, arthritis	HSC	Per 100 people with the same characteristics	2022	7.4		
+A	Annual	ITD1	Provincia Autonoma Bolzano / Bozen	0_CHRONIC_ARTH	Chronic patients - suffering from osteoarthritis, arthritis	HSC	Per 100 people with the same characteristics	2023	8.9		
+A	Annual	ITD1	Provincia Autonoma Bolzano / Bozen	0_CHRONIC_OSTEO	Chronic patients - with osteoporosis	HSC	Per 100 people with the same characteristics	2022	2.9		
+A	Annual	ITD1	Provincia Autonoma Bolzano / Bozen	0_CHRONIC_OSTEO	Chronic patients - with osteoporosis	HSC	Per 100 people with the same characteristics	2023	4.1		
+A	Annual	ITD1	Provincia Autonoma Bolzano / Bozen	0_CHRONIC_HEART	Chronic patients - suffering from heart disease	HSC	Per 100 people with the same characteristics	2022	3.2		
+A	Annual	ITD1	Provincia Autonoma Bolzano / Bozen	0_CHRONIC_HEART	Chronic patients - suffering from heart disease	HSC	Per 100 people with the same characteristics	2023	1.9		
+A	Annual	ITD1	Provincia Autonoma Bolzano / Bozen	0_CHRONIC_ALLER	Chronic patients - suffering from allergic diseases	HSC	Per 100 people with the same characteristics	2022	9.4		
+A	Annual	ITD1	Provincia Autonoma Bolzano / Bozen	0_CHRONIC_ALLER	Chronic patients - suffering from allergic diseases	HSC	Per 100 people with the same characteristics	2023	8		
+A	Annual	ITD1	Provincia Autonoma Bolzano / Bozen	0_CHRONIC_NERVOUS	Chronic patients - suffering from nervous disorders	HSC	Per 100 people with the same characteristics	2022	3.4		
+A	Annual	ITD1	Provincia Autonoma Bolzano / Bozen	0_CHRONIC_NERVOUS	Chronic patients - suffering from nervous disorders	HSC	Per 100 people with the same characteristics	2023	4.7		
+A	Annual	ITD1	Provincia Autonoma Bolzano / Bozen	0_CHRONIC_GASTR	Chronic patients - suffering from gastric or duodenal ulcer	HSC	Per 100 people with the same characteristics	2022	1.2		
+A	Annual	ITD1	Provincia Autonoma Bolzano / Bozen	0_CHRONIC_GASTR	Chronic patients - suffering from gastric or duodenal ulcer	HSC	Per 100 people with the same characteristics	2023	0.7		
+A	Annual	ITD2	Provincia Autonoma Trento	0_GOOD_H	Persons by health conditions and the presence of  chronic diseases: persons  in good health	HSC	Per 100 people with the same characteristics	2022	75.1		
+A	Annual	ITD2	Provincia Autonoma Trento	0_GOOD_H	Persons by health conditions and the presence of  chronic diseases: persons  in good health	HSC	Per 100 people with the same characteristics	2023	75.5		
+A	Annual	ITD2	Provincia Autonoma Trento	0_ALEAST_1CRON	Persons by health conditions and the presence of  chronic diseases: persons  at least a chronic disease	HSC	Per 100 people with the same characteristics	2022	37.8		
+A	Annual	ITD2	Provincia Autonoma Trento	0_ALEAST_1CRON	Persons by health conditions and the presence of  chronic diseases: persons  at least a chronic disease	HSC	Per 100 people with the same characteristics	2023	36.9		
+A	Annual	ITD2	Provincia Autonoma Trento	0_ALEAST_2CRON	Persons by health conditions and the presence of  chronic diseases: persons  at least two chronic disease	HSC	Per 100 people with the same characteristics	2022	18.3		
+A	Annual	ITD2	Provincia Autonoma Trento	0_ALEAST_2CRON	Persons by health conditions and the presence of  chronic diseases: persons  at least two chronic disease	HSC	Per 100 people with the same characteristics	2023	17.1		
+A	Annual	ITD2	Provincia Autonoma Trento	0_CHRONIC_GH	Persons  with chronic diseases in good health	HSC	Per 100 people with the same characteristics	2022	52.7		
+A	Annual	ITD2	Provincia Autonoma Trento	0_CHRONIC_GH	Persons  with chronic diseases in good health	HSC	Per 100 people with the same characteristics	2023	55.1		
+A	Annual	ITD2	Provincia Autonoma Trento	0_CHRONIC_DIAB	Chronic patients - suffering from diabetes	HSC	Per 100 people with the same characteristics	2022	5.9		
+A	Annual	ITD2	Provincia Autonoma Trento	0_CHRONIC_DIAB	Chronic patients - suffering from diabetes	HSC	Per 100 people with the same characteristics	2023	3.7		
+A	Annual	ITD2	Provincia Autonoma Trento	0_CHRONIC_HYP	Chronic patients - with hypertension	HSC	Per 100 people with the same characteristics	2022	15.6		
+A	Annual	ITD2	Provincia Autonoma Trento	0_CHRONIC_HYP	Chronic patients - with hypertension	HSC	Per 100 people with the same characteristics	2023	14.2		
+A	Annual	ITD2	Provincia Autonoma Trento	0_CHRONIC_BRONC	Chronic patients - suffering from chronic bronchitis	HSC	Per 100 people with the same characteristics	2022	5.3		
+A	Annual	ITD2	Provincia Autonoma Trento	0_CHRONIC_BRONC	Chronic patients - suffering from chronic bronchitis	HSC	Per 100 people with the same characteristics	2023	5.9		
+A	Annual	ITD2	Provincia Autonoma Trento	0_CHRONIC_ARTH	Chronic patients - suffering from osteoarthritis, arthritis	HSC	Per 100 people with the same characteristics	2022	12.7		
+A	Annual	ITD2	Provincia Autonoma Trento	0_CHRONIC_ARTH	Chronic patients - suffering from osteoarthritis, arthritis	HSC	Per 100 people with the same characteristics	2023	11.7		
+A	Annual	ITD2	Provincia Autonoma Trento	0_CHRONIC_OSTEO	Chronic patients - with osteoporosis	HSC	Per 100 people with the same characteristics	2022	4.5		
+A	Annual	ITD2	Provincia Autonoma Trento	0_CHRONIC_OSTEO	Chronic patients - with osteoporosis	HSC	Per 100 people with the same characteristics	2023	4.6		
+A	Annual	ITD2	Provincia Autonoma Trento	0_CHRONIC_HEART	Chronic patients - suffering from heart disease	HSC	Per 100 people with the same characteristics	2022	4.8		
+A	Annual	ITD2	Provincia Autonoma Trento	0_CHRONIC_HEART	Chronic patients - suffering from heart disease	HSC	Per 100 people with the same characteristics	2023	3.9		
+A	Annual	ITD2	Provincia Autonoma Trento	0_CHRONIC_ALLER	Chronic patients - suffering from allergic diseases	HSC	Per 100 people with the same characteristics	2022	12		
+A	Annual	ITD2	Provincia Autonoma Trento	0_CHRONIC_ALLER	Chronic patients - suffering from allergic diseases	HSC	Per 100 people with the same characteristics	2023	11.9		
+A	Annual	ITD2	Provincia Autonoma Trento	0_CHRONIC_NERVOUS	Chronic patients - suffering from nervous disorders	HSC	Per 100 people with the same characteristics	2022	4.2		
+A	Annual	ITD2	Provincia Autonoma Trento	0_CHRONIC_NERVOUS	Chronic patients - suffering from nervous disorders	HSC	Per 100 people with the same characteristics	2023	3.4		
+A	Annual	ITD2	Provincia Autonoma Trento	0_CHRONIC_GASTR	Chronic patients - suffering from gastric or duodenal ulcer	HSC	Per 100 people with the same characteristics	2022	2.2		
+A	Annual	ITD2	Provincia Autonoma Trento	0_CHRONIC_GASTR	Chronic patients - suffering from gastric or duodenal ulcer	HSC	Per 100 people with the same characteristics	2023	2.3		
+A	Annual	ITD3	Veneto	0_GOOD_H	Persons by health conditions and the presence of  chronic diseases: persons  in good health	HSC	Per 100 people with the same characteristics	2022	70.3		
+A	Annual	ITD3	Veneto	0_GOOD_H	Persons by health conditions and the presence of  chronic diseases: persons  in good health	HSC	Per 100 people with the same characteristics	2023	72.6		
+A	Annual	ITD3	Veneto	0_ALEAST_1CRON	Persons by health conditions and the presence of  chronic diseases: persons  at least a chronic disease	HSC	Per 100 people with the same characteristics	2022	41.5		
+A	Annual	ITD3	Veneto	0_ALEAST_1CRON	Persons by health conditions and the presence of  chronic diseases: persons  at least a chronic disease	HSC	Per 100 people with the same characteristics	2023	38.9		
+A	Annual	ITD3	Veneto	0_ALEAST_2CRON	Persons by health conditions and the presence of  chronic diseases: persons  at least two chronic disease	HSC	Per 100 people with the same characteristics	2022	20.2		
+A	Annual	ITD3	Veneto	0_ALEAST_2CRON	Persons by health conditions and the presence of  chronic diseases: persons  at least two chronic disease	HSC	Per 100 people with the same characteristics	2023	18.1		
+A	Annual	ITD3	Veneto	0_CHRONIC_GH	Persons  with chronic diseases in good health	HSC	Per 100 people with the same characteristics	2022	46.3		
+A	Annual	ITD3	Veneto	0_CHRONIC_GH	Persons  with chronic diseases in good health	HSC	Per 100 people with the same characteristics	2023	50.5		
+A	Annual	ITD3	Veneto	0_CHRONIC_DIAB	Chronic patients - suffering from diabetes	HSC	Per 100 people with the same characteristics	2022	5.7		
+A	Annual	ITD3	Veneto	0_CHRONIC_DIAB	Chronic patients - suffering from diabetes	HSC	Per 100 people with the same characteristics	2023	5.2		
+A	Annual	ITD3	Veneto	0_CHRONIC_HYP	Chronic patients - with hypertension	HSC	Per 100 people with the same characteristics	2022	17.7		
+A	Annual	ITD3	Veneto	0_CHRONIC_HYP	Chronic patients - with hypertension	HSC	Per 100 people with the same characteristics	2023	18.1		
+A	Annual	ITD3	Veneto	0_CHRONIC_BRONC	Chronic patients - suffering from chronic bronchitis	HSC	Per 100 people with the same characteristics	2022	5.6		
+A	Annual	ITD3	Veneto	0_CHRONIC_BRONC	Chronic patients - suffering from chronic bronchitis	HSC	Per 100 people with the same characteristics	2023	6		
+A	Annual	ITD3	Veneto	0_CHRONIC_ARTH	Chronic patients - suffering from osteoarthritis, arthritis	HSC	Per 100 people with the same characteristics	2022	14.5		
+A	Annual	ITD3	Veneto	0_CHRONIC_ARTH	Chronic patients - suffering from osteoarthritis, arthritis	HSC	Per 100 people with the same characteristics	2023	11.7		
+A	Annual	ITD3	Veneto	0_CHRONIC_OSTEO	Chronic patients - with osteoporosis	HSC	Per 100 people with the same characteristics	2022	6.4		
+A	Annual	ITD3	Veneto	0_CHRONIC_OSTEO	Chronic patients - with osteoporosis	HSC	Per 100 people with the same characteristics	2023	5.6		
+A	Annual	ITD3	Veneto	0_CHRONIC_HEART	Chronic patients - suffering from heart disease	HSC	Per 100 people with the same characteristics	2022	4		
+A	Annual	ITD3	Veneto	0_CHRONIC_HEART	Chronic patients - suffering from heart disease	HSC	Per 100 people with the same characteristics	2023	4.5		
+A	Annual	ITD3	Veneto	0_CHRONIC_ALLER	Chronic patients - suffering from allergic diseases	HSC	Per 100 people with the same characteristics	2022	12.6		
+A	Annual	ITD3	Veneto	0_CHRONIC_ALLER	Chronic patients - suffering from allergic diseases	HSC	Per 100 people with the same characteristics	2023	9.7		
+A	Annual	ITD3	Veneto	0_CHRONIC_NERVOUS	Chronic patients - suffering from nervous disorders	HSC	Per 100 people with the same characteristics	2022	5.2		
+A	Annual	ITD3	Veneto	0_CHRONIC_NERVOUS	Chronic patients - suffering from nervous disorders	HSC	Per 100 people with the same characteristics	2023	4.7		
+A	Annual	ITD3	Veneto	0_CHRONIC_GASTR	Chronic patients - suffering from gastric or duodenal ulcer	HSC	Per 100 people with the same characteristics	2022	1.9		
+A	Annual	ITD3	Veneto	0_CHRONIC_GASTR	Chronic patients - suffering from gastric or duodenal ulcer	HSC	Per 100 people with the same characteristics	2023	2.1		
+A	Annual	ITD4	Friuli-Venezia Giulia	0_GOOD_H	Persons by health conditions and the presence of  chronic diseases: persons  in good health	HSC	Per 100 people with the same characteristics	2022	69.1		
+A	Annual	ITD4	Friuli-Venezia Giulia	0_GOOD_H	Persons by health conditions and the presence of  chronic diseases: persons  in good health	HSC	Per 100 people with the same characteristics	2023	69.4		
+A	Annual	ITD4	Friuli-Venezia Giulia	0_ALEAST_1CRON	Persons by health conditions and the presence of  chronic diseases: persons  at least a chronic disease	HSC	Per 100 people with the same characteristics	2022	40.8		
+A	Annual	ITD4	Friuli-Venezia Giulia	0_ALEAST_1CRON	Persons by health conditions and the presence of  chronic diseases: persons  at least a chronic disease	HSC	Per 100 people with the same characteristics	2023	39.5		
+A	Annual	ITD4	Friuli-Venezia Giulia	0_ALEAST_2CRON	Persons by health conditions and the presence of  chronic diseases: persons  at least two chronic disease	HSC	Per 100 people with the same characteristics	2022	22.3		
+A	Annual	ITD4	Friuli-Venezia Giulia	0_ALEAST_2CRON	Persons by health conditions and the presence of  chronic diseases: persons  at least two chronic disease	HSC	Per 100 people with the same characteristics	2023	20.2		
+A	Annual	ITD4	Friuli-Venezia Giulia	0_CHRONIC_GH	Persons  with chronic diseases in good health	HSC	Per 100 people with the same characteristics	2022	46.3		
+A	Annual	ITD4	Friuli-Venezia Giulia	0_CHRONIC_GH	Persons  with chronic diseases in good health	HSC	Per 100 people with the same characteristics	2023	46.9		
+A	Annual	ITD4	Friuli-Venezia Giulia	0_CHRONIC_DIAB	Chronic patients - suffering from diabetes	HSC	Per 100 people with the same characteristics	2022	5.8		
+A	Annual	ITD4	Friuli-Venezia Giulia	0_CHRONIC_DIAB	Chronic patients - suffering from diabetes	HSC	Per 100 people with the same characteristics	2023	6.9		
+A	Annual	ITD4	Friuli-Venezia Giulia	0_CHRONIC_HYP	Chronic patients - with hypertension	HSC	Per 100 people with the same characteristics	2022	17.9		
+A	Annual	ITD4	Friuli-Venezia Giulia	0_CHRONIC_HYP	Chronic patients - with hypertension	HSC	Per 100 people with the same characteristics	2023	18.8		
+A	Annual	ITD4	Friuli-Venezia Giulia	0_CHRONIC_BRONC	Chronic patients - suffering from chronic bronchitis	HSC	Per 100 people with the same characteristics	2022	5.7		
+A	Annual	ITD4	Friuli-Venezia Giulia	0_CHRONIC_BRONC	Chronic patients - suffering from chronic bronchitis	HSC	Per 100 people with the same characteristics	2023	6		
+A	Annual	ITD4	Friuli-Venezia Giulia	0_CHRONIC_ARTH	Chronic patients - suffering from osteoarthritis, arthritis	HSC	Per 100 people with the same characteristics	2022	17.7		
+A	Annual	ITD4	Friuli-Venezia Giulia	0_CHRONIC_ARTH	Chronic patients - suffering from osteoarthritis, arthritis	HSC	Per 100 people with the same characteristics	2023	14.1		
+A	Annual	ITD4	Friuli-Venezia Giulia	0_CHRONIC_OSTEO	Chronic patients - with osteoporosis	HSC	Per 100 people with the same characteristics	2022	7.4		
+A	Annual	ITD4	Friuli-Venezia Giulia	0_CHRONIC_OSTEO	Chronic patients - with osteoporosis	HSC	Per 100 people with the same characteristics	2023	5.8		
+A	Annual	ITD4	Friuli-Venezia Giulia	0_CHRONIC_HEART	Chronic patients - suffering from heart disease	HSC	Per 100 people with the same characteristics	2022	5		
+A	Annual	ITD4	Friuli-Venezia Giulia	0_CHRONIC_HEART	Chronic patients - suffering from heart disease	HSC	Per 100 people with the same characteristics	2023	5.4		
+A	Annual	ITD4	Friuli-Venezia Giulia	0_CHRONIC_ALLER	Chronic patients - suffering from allergic diseases	HSC	Per 100 people with the same characteristics	2022	9.5		
+A	Annual	ITD4	Friuli-Venezia Giulia	0_CHRONIC_ALLER	Chronic patients - suffering from allergic diseases	HSC	Per 100 people with the same characteristics	2023	9.5		
+A	Annual	ITD4	Friuli-Venezia Giulia	0_CHRONIC_NERVOUS	Chronic patients - suffering from nervous disorders	HSC	Per 100 people with the same characteristics	2022	4.6		
+A	Annual	ITD4	Friuli-Venezia Giulia	0_CHRONIC_NERVOUS	Chronic patients - suffering from nervous disorders	HSC	Per 100 people with the same characteristics	2023	4.5		
+A	Annual	ITD4	Friuli-Venezia Giulia	0_CHRONIC_GASTR	Chronic patients - suffering from gastric or duodenal ulcer	HSC	Per 100 people with the same characteristics	2022	2.3		
+A	Annual	ITD4	Friuli-Venezia Giulia	0_CHRONIC_GASTR	Chronic patients - suffering from gastric or duodenal ulcer	HSC	Per 100 people with the same characteristics	2023	2		
+A	Annual	ITD5	Emilia-Romagna	0_GOOD_H	Persons by health conditions and the presence of  chronic diseases: persons  in good health	HSC	Per 100 people with the same characteristics	2022	69.6		
+A	Annual	ITD5	Emilia-Romagna	0_GOOD_H	Persons by health conditions and the presence of  chronic diseases: persons  in good health	HSC	Per 100 people with the same characteristics	2023	68.4		
+A	Annual	ITD5	Emilia-Romagna	0_ALEAST_1CRON	Persons by health conditions and the presence of  chronic diseases: persons  at least a chronic disease	HSC	Per 100 people with the same characteristics	2022	40.4		
+A	Annual	ITD5	Emilia-Romagna	0_ALEAST_1CRON	Persons by health conditions and the presence of  chronic diseases: persons  at least a chronic disease	HSC	Per 100 people with the same characteristics	2023	43.2		
+A	Annual	ITD5	Emilia-Romagna	0_ALEAST_2CRON	Persons by health conditions and the presence of  chronic diseases: persons  at least two chronic disease	HSC	Per 100 people with the same characteristics	2022	21.4		
+A	Annual	ITD5	Emilia-Romagna	0_ALEAST_2CRON	Persons by health conditions and the presence of  chronic diseases: persons  at least two chronic disease	HSC	Per 100 people with the same characteristics	2023	21.7		
+A	Annual	ITD5	Emilia-Romagna	0_CHRONIC_GH	Persons  with chronic diseases in good health	HSC	Per 100 people with the same characteristics	2022	43.1		
+A	Annual	ITD5	Emilia-Romagna	0_CHRONIC_GH	Persons  with chronic diseases in good health	HSC	Per 100 people with the same characteristics	2023	43.3		
+A	Annual	ITD5	Emilia-Romagna	0_CHRONIC_DIAB	Chronic patients - suffering from diabetes	HSC	Per 100 people with the same characteristics	2022	5.4		
+A	Annual	ITD5	Emilia-Romagna	0_CHRONIC_DIAB	Chronic patients - suffering from diabetes	HSC	Per 100 people with the same characteristics	2023	5.8		
+A	Annual	ITD5	Emilia-Romagna	0_CHRONIC_HYP	Chronic patients - with hypertension	HSC	Per 100 people with the same characteristics	2022	16.9		
+A	Annual	ITD5	Emilia-Romagna	0_CHRONIC_HYP	Chronic patients - with hypertension	HSC	Per 100 people with the same characteristics	2023	19		
+A	Annual	ITD5	Emilia-Romagna	0_CHRONIC_BRONC	Chronic patients - suffering from chronic bronchitis	HSC	Per 100 people with the same characteristics	2022	6.4		
+A	Annual	ITD5	Emilia-Romagna	0_CHRONIC_BRONC	Chronic patients - suffering from chronic bronchitis	HSC	Per 100 people with the same characteristics	2023	6.8		
+A	Annual	ITD5	Emilia-Romagna	0_CHRONIC_ARTH	Chronic patients - suffering from osteoarthritis, arthritis	HSC	Per 100 people with the same characteristics	2022	15.6		
+A	Annual	ITD5	Emilia-Romagna	0_CHRONIC_ARTH	Chronic patients - suffering from osteoarthritis, arthritis	HSC	Per 100 people with the same characteristics	2023	17.4		
+A	Annual	ITD5	Emilia-Romagna	0_CHRONIC_OSTEO	Chronic patients - with osteoporosis	HSC	Per 100 people with the same characteristics	2022	7.1		
+A	Annual	ITD5	Emilia-Romagna	0_CHRONIC_OSTEO	Chronic patients - with osteoporosis	HSC	Per 100 people with the same characteristics	2023	7.2		
+A	Annual	ITD5	Emilia-Romagna	0_CHRONIC_HEART	Chronic patients - suffering from heart disease	HSC	Per 100 people with the same characteristics	2022	4.7		
+A	Annual	ITD5	Emilia-Romagna	0_CHRONIC_HEART	Chronic patients - suffering from heart disease	HSC	Per 100 people with the same characteristics	2023	5.3		
+A	Annual	ITD5	Emilia-Romagna	0_CHRONIC_ALLER	Chronic patients - suffering from allergic diseases	HSC	Per 100 people with the same characteristics	2022	10.6		
+A	Annual	ITD5	Emilia-Romagna	0_CHRONIC_ALLER	Chronic patients - suffering from allergic diseases	HSC	Per 100 people with the same characteristics	2023	11.4		
+A	Annual	ITD5	Emilia-Romagna	0_CHRONIC_NERVOUS	Chronic patients - suffering from nervous disorders	HSC	Per 100 people with the same characteristics	2022	4.2		
+A	Annual	ITD5	Emilia-Romagna	0_CHRONIC_NERVOUS	Chronic patients - suffering from nervous disorders	HSC	Per 100 people with the same characteristics	2023	4.3		
+A	Annual	ITD5	Emilia-Romagna	0_CHRONIC_GASTR	Chronic patients - suffering from gastric or duodenal ulcer	HSC	Per 100 people with the same characteristics	2022	1.8		
+A	Annual	ITD5	Emilia-Romagna	0_CHRONIC_GASTR	Chronic patients - suffering from gastric or duodenal ulcer	HSC	Per 100 people with the same characteristics	2023	2.2		
+A	Annual	ITE	Centro (I)	0_GOOD_H	Persons by health conditions and the presence of  chronic diseases: persons  in good health	HSC	Per 100 people with the same characteristics	2022	71.4		
+A	Annual	ITE	Centro (I)	0_GOOD_H	Persons by health conditions and the presence of  chronic diseases: persons  in good health	HSC	Per 100 people with the same characteristics	2023	69.4		
+A	Annual	ITE	Centro (I)	0_ALEAST_1CRON	Persons by health conditions and the presence of  chronic diseases: persons  at least a chronic disease	HSC	Per 100 people with the same characteristics	2022	40.1		
+A	Annual	ITE	Centro (I)	0_ALEAST_1CRON	Persons by health conditions and the presence of  chronic diseases: persons  at least a chronic disease	HSC	Per 100 people with the same characteristics	2023	40.6		
+A	Annual	ITE	Centro (I)	0_ALEAST_2CRON	Persons by health conditions and the presence of  chronic diseases: persons  at least two chronic disease	HSC	Per 100 people with the same characteristics	2022	21.3		
+A	Annual	ITE	Centro (I)	0_ALEAST_2CRON	Persons by health conditions and the presence of  chronic diseases: persons  at least two chronic disease	HSC	Per 100 people with the same characteristics	2023	20.2		
+A	Annual	ITE	Centro (I)	0_CHRONIC_GH	Persons  with chronic diseases in good health	HSC	Per 100 people with the same characteristics	2022	46.9		
+A	Annual	ITE	Centro (I)	0_CHRONIC_GH	Persons  with chronic diseases in good health	HSC	Per 100 people with the same characteristics	2023	44.1		
+A	Annual	ITE	Centro (I)	0_CHRONIC_DIAB	Chronic patients - suffering from diabetes	HSC	Per 100 people with the same characteristics	2022	6.3		
+A	Annual	ITE	Centro (I)	0_CHRONIC_DIAB	Chronic patients - suffering from diabetes	HSC	Per 100 people with the same characteristics	2023	5.9		
+A	Annual	ITE	Centro (I)	0_CHRONIC_HYP	Chronic patients - with hypertension	HSC	Per 100 people with the same characteristics	2022	18.4		
+A	Annual	ITE	Centro (I)	0_CHRONIC_HYP	Chronic patients - with hypertension	HSC	Per 100 people with the same characteristics	2023	18.3		
+A	Annual	ITE	Centro (I)	0_CHRONIC_BRONC	Chronic patients - suffering from chronic bronchitis	HSC	Per 100 people with the same characteristics	2022	5.7		
+A	Annual	ITE	Centro (I)	0_CHRONIC_BRONC	Chronic patients - suffering from chronic bronchitis	HSC	Per 100 people with the same characteristics	2023	5.9		
+A	Annual	ITE	Centro (I)	0_CHRONIC_ARTH	Chronic patients - suffering from osteoarthritis, arthritis	HSC	Per 100 people with the same characteristics	2022	15		
+A	Annual	ITE	Centro (I)	0_CHRONIC_ARTH	Chronic patients - suffering from osteoarthritis, arthritis	HSC	Per 100 people with the same characteristics	2023	14.8		
+A	Annual	ITE	Centro (I)	0_CHRONIC_OSTEO	Chronic patients - with osteoporosis	HSC	Per 100 people with the same characteristics	2022	8.3		
+A	Annual	ITE	Centro (I)	0_CHRONIC_OSTEO	Chronic patients - with osteoporosis	HSC	Per 100 people with the same characteristics	2023	8		
+A	Annual	ITE	Centro (I)	0_CHRONIC_HEART	Chronic patients - suffering from heart disease	HSC	Per 100 people with the same characteristics	2022	3.9		
+A	Annual	ITE	Centro (I)	0_CHRONIC_HEART	Chronic patients - suffering from heart disease	HSC	Per 100 people with the same characteristics	2023	4.4		
+A	Annual	ITE	Centro (I)	0_CHRONIC_ALLER	Chronic patients - suffering from allergic diseases	HSC	Per 100 people with the same characteristics	2022	11.1		
+A	Annual	ITE	Centro (I)	0_CHRONIC_ALLER	Chronic patients - suffering from allergic diseases	HSC	Per 100 people with the same characteristics	2023	10.6		
+A	Annual	ITE	Centro (I)	0_CHRONIC_NERVOUS	Chronic patients - suffering from nervous disorders	HSC	Per 100 people with the same characteristics	2022	4.4		
+A	Annual	ITE	Centro (I)	0_CHRONIC_NERVOUS	Chronic patients - suffering from nervous disorders	HSC	Per 100 people with the same characteristics	2023	5		
+A	Annual	ITE	Centro (I)	0_CHRONIC_GASTR	Chronic patients - suffering from gastric or duodenal ulcer	HSC	Per 100 people with the same characteristics	2022	2		
+A	Annual	ITE	Centro (I)	0_CHRONIC_GASTR	Chronic patients - suffering from gastric or duodenal ulcer	HSC	Per 100 people with the same characteristics	2023	1.7		
+A	Annual	ITE1	Toscana	0_GOOD_H	Persons by health conditions and the presence of  chronic diseases: persons  in good health	HSC	Per 100 people with the same characteristics	2022	71.4		
+A	Annual	ITE1	Toscana	0_GOOD_H	Persons by health conditions and the presence of  chronic diseases: persons  in good health	HSC	Per 100 people with the same characteristics	2023	71.6		
+A	Annual	ITE1	Toscana	0_ALEAST_1CRON	Persons by health conditions and the presence of  chronic diseases: persons  at least a chronic disease	HSC	Per 100 people with the same characteristics	2022	38.5		
+A	Annual	ITE1	Toscana	0_ALEAST_1CRON	Persons by health conditions and the presence of  chronic diseases: persons  at least a chronic disease	HSC	Per 100 people with the same characteristics	2023	39.4		
+A	Annual	ITE1	Toscana	0_ALEAST_2CRON	Persons by health conditions and the presence of  chronic diseases: persons  at least two chronic disease	HSC	Per 100 people with the same characteristics	2022	19.2		
+A	Annual	ITE1	Toscana	0_ALEAST_2CRON	Persons by health conditions and the presence of  chronic diseases: persons  at least two chronic disease	HSC	Per 100 people with the same characteristics	2023	18.2		
+A	Annual	ITE1	Toscana	0_CHRONIC_GH	Persons  with chronic diseases in good health	HSC	Per 100 people with the same characteristics	2022	46.8		
+A	Annual	ITE1	Toscana	0_CHRONIC_GH	Persons  with chronic diseases in good health	HSC	Per 100 people with the same characteristics	2023	47.9		
+A	Annual	ITE1	Toscana	0_CHRONIC_DIAB	Chronic patients - suffering from diabetes	HSC	Per 100 people with the same characteristics	2022	5.6		
+A	Annual	ITE1	Toscana	0_CHRONIC_DIAB	Chronic patients - suffering from diabetes	HSC	Per 100 people with the same characteristics	2023	5.6		
+A	Annual	ITE1	Toscana	0_CHRONIC_HYP	Chronic patients - with hypertension	HSC	Per 100 people with the same characteristics	2022	17.1		
+A	Annual	ITE1	Toscana	0_CHRONIC_HYP	Chronic patients - with hypertension	HSC	Per 100 people with the same characteristics	2023	17.7		
+A	Annual	ITE1	Toscana	0_CHRONIC_BRONC	Chronic patients - suffering from chronic bronchitis	HSC	Per 100 people with the same characteristics	2022	5		
+A	Annual	ITE1	Toscana	0_CHRONIC_BRONC	Chronic patients - suffering from chronic bronchitis	HSC	Per 100 people with the same characteristics	2023	5.5		
+A	Annual	ITE1	Toscana	0_CHRONIC_ARTH	Chronic patients - suffering from osteoarthritis, arthritis	HSC	Per 100 people with the same characteristics	2022	14		
+A	Annual	ITE1	Toscana	0_CHRONIC_ARTH	Chronic patients - suffering from osteoarthritis, arthritis	HSC	Per 100 people with the same characteristics	2023	13.8		
+A	Annual	ITE1	Toscana	0_CHRONIC_OSTEO	Chronic patients - with osteoporosis	HSC	Per 100 people with the same characteristics	2022	7.7		
+A	Annual	ITE1	Toscana	0_CHRONIC_OSTEO	Chronic patients - with osteoporosis	HSC	Per 100 people with the same characteristics	2023	6.5		
+A	Annual	ITE1	Toscana	0_CHRONIC_HEART	Chronic patients - suffering from heart disease	HSC	Per 100 people with the same characteristics	2022	3.2		
+A	Annual	ITE1	Toscana	0_CHRONIC_HEART	Chronic patients - suffering from heart disease	HSC	Per 100 people with the same characteristics	2023	4.2		
+A	Annual	ITE1	Toscana	0_CHRONIC_ALLER	Chronic patients - suffering from allergic diseases	HSC	Per 100 people with the same characteristics	2022	9		
+A	Annual	ITE1	Toscana	0_CHRONIC_ALLER	Chronic patients - suffering from allergic diseases	HSC	Per 100 people with the same characteristics	2023	9.1		
+A	Annual	ITE1	Toscana	0_CHRONIC_NERVOUS	Chronic patients - suffering from nervous disorders	HSC	Per 100 people with the same characteristics	2022	4.3		
+A	Annual	ITE1	Toscana	0_CHRONIC_NERVOUS	Chronic patients - suffering from nervous disorders	HSC	Per 100 people with the same characteristics	2023	4.4		
+A	Annual	ITE1	Toscana	0_CHRONIC_GASTR	Chronic patients - suffering from gastric or duodenal ulcer	HSC	Per 100 people with the same characteristics	2022	1.9		
+A	Annual	ITE1	Toscana	0_CHRONIC_GASTR	Chronic patients - suffering from gastric or duodenal ulcer	HSC	Per 100 people with the same characteristics	2023	1.5		
+A	Annual	ITE2	Umbria	0_GOOD_H	Persons by health conditions and the presence of  chronic diseases: persons  in good health	HSC	Per 100 people with the same characteristics	2022	71.8		
+A	Annual	ITE2	Umbria	0_GOOD_H	Persons by health conditions and the presence of  chronic diseases: persons  in good health	HSC	Per 100 people with the same characteristics	2023	66		
+A	Annual	ITE2	Umbria	0_ALEAST_1CRON	Persons by health conditions and the presence of  chronic diseases: persons  at least a chronic disease	HSC	Per 100 people with the same characteristics	2022	41.2		
+A	Annual	ITE2	Umbria	0_ALEAST_1CRON	Persons by health conditions and the presence of  chronic diseases: persons  at least a chronic disease	HSC	Per 100 people with the same characteristics	2023	44.8		
+A	Annual	ITE2	Umbria	0_ALEAST_2CRON	Persons by health conditions and the presence of  chronic diseases: persons  at least two chronic disease	HSC	Per 100 people with the same characteristics	2022	21.7		
+A	Annual	ITE2	Umbria	0_ALEAST_2CRON	Persons by health conditions and the presence of  chronic diseases: persons  at least two chronic disease	HSC	Per 100 people with the same characteristics	2023	23.8		
+A	Annual	ITE2	Umbria	0_CHRONIC_GH	Persons  with chronic diseases in good health	HSC	Per 100 people with the same characteristics	2022	50.3		
+A	Annual	ITE2	Umbria	0_CHRONIC_GH	Persons  with chronic diseases in good health	HSC	Per 100 people with the same characteristics	2023	40.3		
+A	Annual	ITE2	Umbria	0_CHRONIC_DIAB	Chronic patients - suffering from diabetes	HSC	Per 100 people with the same characteristics	2022	7		
+A	Annual	ITE2	Umbria	0_CHRONIC_DIAB	Chronic patients - suffering from diabetes	HSC	Per 100 people with the same characteristics	2023	7.6		
+A	Annual	ITE2	Umbria	0_CHRONIC_HYP	Chronic patients - with hypertension	HSC	Per 100 people with the same characteristics	2022	19.5		
+A	Annual	ITE2	Umbria	0_CHRONIC_HYP	Chronic patients - with hypertension	HSC	Per 100 people with the same characteristics	2023	21.4		
+A	Annual	ITE2	Umbria	0_CHRONIC_BRONC	Chronic patients - suffering from chronic bronchitis	HSC	Per 100 people with the same characteristics	2022	5.9		
+A	Annual	ITE2	Umbria	0_CHRONIC_BRONC	Chronic patients - suffering from chronic bronchitis	HSC	Per 100 people with the same characteristics	2023	6.7		
+A	Annual	ITE2	Umbria	0_CHRONIC_ARTH	Chronic patients - suffering from osteoarthritis, arthritis	HSC	Per 100 people with the same characteristics	2022	16.9		
+A	Annual	ITE2	Umbria	0_CHRONIC_ARTH	Chronic patients - suffering from osteoarthritis, arthritis	HSC	Per 100 people with the same characteristics	2023	15		
+A	Annual	ITE2	Umbria	0_CHRONIC_OSTEO	Chronic patients - with osteoporosis	HSC	Per 100 people with the same characteristics	2022	7.3		
+A	Annual	ITE2	Umbria	0_CHRONIC_OSTEO	Chronic patients - with osteoporosis	HSC	Per 100 people with the same characteristics	2023	9.2		
+A	Annual	ITE2	Umbria	0_CHRONIC_HEART	Chronic patients - suffering from heart disease	HSC	Per 100 people with the same characteristics	2022	4.3		
+A	Annual	ITE2	Umbria	0_CHRONIC_HEART	Chronic patients - suffering from heart disease	HSC	Per 100 people with the same characteristics	2023	5		
+A	Annual	ITE2	Umbria	0_CHRONIC_ALLER	Chronic patients - suffering from allergic diseases	HSC	Per 100 people with the same characteristics	2022	11		
+A	Annual	ITE2	Umbria	0_CHRONIC_ALLER	Chronic patients - suffering from allergic diseases	HSC	Per 100 people with the same characteristics	2023	11.3		
+A	Annual	ITE2	Umbria	0_CHRONIC_NERVOUS	Chronic patients - suffering from nervous disorders	HSC	Per 100 people with the same characteristics	2022	4.5		
+A	Annual	ITE2	Umbria	0_CHRONIC_NERVOUS	Chronic patients - suffering from nervous disorders	HSC	Per 100 people with the same characteristics	2023	7.1		
+A	Annual	ITE2	Umbria	0_CHRONIC_GASTR	Chronic patients - suffering from gastric or duodenal ulcer	HSC	Per 100 people with the same characteristics	2022	1.9		
+A	Annual	ITE2	Umbria	0_CHRONIC_GASTR	Chronic patients - suffering from gastric or duodenal ulcer	HSC	Per 100 people with the same characteristics	2023	1.9		
+A	Annual	ITE3	Marche	0_GOOD_H	Persons by health conditions and the presence of  chronic diseases: persons  in good health	HSC	Per 100 people with the same characteristics	2022	68.7		
+A	Annual	ITE3	Marche	0_GOOD_H	Persons by health conditions and the presence of  chronic diseases: persons  in good health	HSC	Per 100 people with the same characteristics	2023	68.1		
+A	Annual	ITE3	Marche	0_ALEAST_1CRON	Persons by health conditions and the presence of  chronic diseases: persons  at least a chronic disease	HSC	Per 100 people with the same characteristics	2022	42.7		
+A	Annual	ITE3	Marche	0_ALEAST_1CRON	Persons by health conditions and the presence of  chronic diseases: persons  at least a chronic disease	HSC	Per 100 people with the same characteristics	2023	39.5		
+A	Annual	ITE3	Marche	0_ALEAST_2CRON	Persons by health conditions and the presence of  chronic diseases: persons  at least two chronic disease	HSC	Per 100 people with the same characteristics	2022	22.3		
+A	Annual	ITE3	Marche	0_ALEAST_2CRON	Persons by health conditions and the presence of  chronic diseases: persons  at least two chronic disease	HSC	Per 100 people with the same characteristics	2023	19.5		
+A	Annual	ITE3	Marche	0_CHRONIC_GH	Persons  with chronic diseases in good health	HSC	Per 100 people with the same characteristics	2022	43.7		
+A	Annual	ITE3	Marche	0_CHRONIC_GH	Persons  with chronic diseases in good health	HSC	Per 100 people with the same characteristics	2023	41.9		
+A	Annual	ITE3	Marche	0_CHRONIC_DIAB	Chronic patients - suffering from diabetes	HSC	Per 100 people with the same characteristics	2022	5.5		
+A	Annual	ITE3	Marche	0_CHRONIC_DIAB	Chronic patients - suffering from diabetes	HSC	Per 100 people with the same characteristics	2023	5.6		
+A	Annual	ITE3	Marche	0_CHRONIC_HYP	Chronic patients - with hypertension	HSC	Per 100 people with the same characteristics	2022	19.1		
+A	Annual	ITE3	Marche	0_CHRONIC_HYP	Chronic patients - with hypertension	HSC	Per 100 people with the same characteristics	2023	17.7		
+A	Annual	ITE3	Marche	0_CHRONIC_BRONC	Chronic patients - suffering from chronic bronchitis	HSC	Per 100 people with the same characteristics	2022	6.3		
+A	Annual	ITE3	Marche	0_CHRONIC_BRONC	Chronic patients - suffering from chronic bronchitis	HSC	Per 100 people with the same characteristics	2023	4.9		
+A	Annual	ITE3	Marche	0_CHRONIC_ARTH	Chronic patients - suffering from osteoarthritis, arthritis	HSC	Per 100 people with the same characteristics	2022	16		
+A	Annual	ITE3	Marche	0_CHRONIC_ARTH	Chronic patients - suffering from osteoarthritis, arthritis	HSC	Per 100 people with the same characteristics	2023	14.8		
+A	Annual	ITE3	Marche	0_CHRONIC_OSTEO	Chronic patients - with osteoporosis	HSC	Per 100 people with the same characteristics	2022	7.4		
+A	Annual	ITE3	Marche	0_CHRONIC_OSTEO	Chronic patients - with osteoporosis	HSC	Per 100 people with the same characteristics	2023	7.7		
+A	Annual	ITE3	Marche	0_CHRONIC_HEART	Chronic patients - suffering from heart disease	HSC	Per 100 people with the same characteristics	2022	4.4		
+A	Annual	ITE3	Marche	0_CHRONIC_HEART	Chronic patients - suffering from heart disease	HSC	Per 100 people with the same characteristics	2023	4.9		
+A	Annual	ITE3	Marche	0_CHRONIC_ALLER	Chronic patients - suffering from allergic diseases	HSC	Per 100 people with the same characteristics	2022	9.9		
+A	Annual	ITE3	Marche	0_CHRONIC_ALLER	Chronic patients - suffering from allergic diseases	HSC	Per 100 people with the same characteristics	2023	9.9		
+A	Annual	ITE3	Marche	0_CHRONIC_NERVOUS	Chronic patients - suffering from nervous disorders	HSC	Per 100 people with the same characteristics	2022	5.6		
+A	Annual	ITE3	Marche	0_CHRONIC_NERVOUS	Chronic patients - suffering from nervous disorders	HSC	Per 100 people with the same characteristics	2023	4.4		
+A	Annual	ITE3	Marche	0_CHRONIC_GASTR	Chronic patients - suffering from gastric or duodenal ulcer	HSC	Per 100 people with the same characteristics	2022	3		
+A	Annual	ITE3	Marche	0_CHRONIC_GASTR	Chronic patients - suffering from gastric or duodenal ulcer	HSC	Per 100 people with the same characteristics	2023	1.8		
+A	Annual	ITE4	Lazio	0_GOOD_H	Persons by health conditions and the presence of  chronic diseases: persons  in good health	HSC	Per 100 people with the same characteristics	2022	72		
+A	Annual	ITE4	Lazio	0_GOOD_H	Persons by health conditions and the presence of  chronic diseases: persons  in good health	HSC	Per 100 people with the same characteristics	2023	68.8		
+A	Annual	ITE4	Lazio	0_ALEAST_1CRON	Persons by health conditions and the presence of  chronic diseases: persons  at least a chronic disease	HSC	Per 100 people with the same characteristics	2022	40.2		
+A	Annual	ITE4	Lazio	0_ALEAST_1CRON	Persons by health conditions and the presence of  chronic diseases: persons  at least a chronic disease	HSC	Per 100 people with the same characteristics	2023	41		
+A	Annual	ITE4	Lazio	0_ALEAST_2CRON	Persons by health conditions and the presence of  chronic diseases: persons  at least two chronic disease	HSC	Per 100 people with the same characteristics	2022	22.3		
+A	Annual	ITE4	Lazio	0_ALEAST_2CRON	Persons by health conditions and the presence of  chronic diseases: persons  at least two chronic disease	HSC	Per 100 people with the same characteristics	2023	21.1		
+A	Annual	ITE4	Lazio	0_CHRONIC_GH	Persons  with chronic diseases in good health	HSC	Per 100 people with the same characteristics	2022	47.3		
+A	Annual	ITE4	Lazio	0_CHRONIC_GH	Persons  with chronic diseases in good health	HSC	Per 100 people with the same characteristics	2023	43		
+A	Annual	ITE4	Lazio	0_CHRONIC_DIAB	Chronic patients - suffering from diabetes	HSC	Per 100 people with the same characteristics	2022	6.9		
+A	Annual	ITE4	Lazio	0_CHRONIC_DIAB	Chronic patients - suffering from diabetes	HSC	Per 100 people with the same characteristics	2023	6		
+A	Annual	ITE4	Lazio	0_CHRONIC_HYP	Chronic patients - with hypertension	HSC	Per 100 people with the same characteristics	2022	18.8		
+A	Annual	ITE4	Lazio	0_CHRONIC_HYP	Chronic patients - with hypertension	HSC	Per 100 people with the same characteristics	2023	18.3		
+A	Annual	ITE4	Lazio	0_CHRONIC_BRONC	Chronic patients - suffering from chronic bronchitis	HSC	Per 100 people with the same characteristics	2022	5.9		
+A	Annual	ITE4	Lazio	0_CHRONIC_BRONC	Chronic patients - suffering from chronic bronchitis	HSC	Per 100 people with the same characteristics	2023	6.2		
+A	Annual	ITE4	Lazio	0_CHRONIC_ARTH	Chronic patients - suffering from osteoarthritis, arthritis	HSC	Per 100 people with the same characteristics	2022	15.1		
+A	Annual	ITE4	Lazio	0_CHRONIC_ARTH	Chronic patients - suffering from osteoarthritis, arthritis	HSC	Per 100 people with the same characteristics	2023	15.4		
+A	Annual	ITE4	Lazio	0_CHRONIC_OSTEO	Chronic patients - with osteoporosis	HSC	Per 100 people with the same characteristics	2022	9		
+A	Annual	ITE4	Lazio	0_CHRONIC_OSTEO	Chronic patients - with osteoporosis	HSC	Per 100 people with the same characteristics	2023	8.8		
+A	Annual	ITE4	Lazio	0_CHRONIC_HEART	Chronic patients - suffering from heart disease	HSC	Per 100 people with the same characteristics	2022	4.1		
+A	Annual	ITE4	Lazio	0_CHRONIC_HEART	Chronic patients - suffering from heart disease	HSC	Per 100 people with the same characteristics	2023	4.4		
+A	Annual	ITE4	Lazio	0_CHRONIC_ALLER	Chronic patients - suffering from allergic diseases	HSC	Per 100 people with the same characteristics	2022	12.8		
+A	Annual	ITE4	Lazio	0_CHRONIC_ALLER	Chronic patients - suffering from allergic diseases	HSC	Per 100 people with the same characteristics	2023	11.7		
+A	Annual	ITE4	Lazio	0_CHRONIC_NERVOUS	Chronic patients - suffering from nervous disorders	HSC	Per 100 people with the same characteristics	2022	4.2		
+A	Annual	ITE4	Lazio	0_CHRONIC_NERVOUS	Chronic patients - suffering from nervous disorders	HSC	Per 100 people with the same characteristics	2023	5.1		
+A	Annual	ITE4	Lazio	0_CHRONIC_GASTR	Chronic patients - suffering from gastric or duodenal ulcer	HSC	Per 100 people with the same characteristics	2022	1.8		
+A	Annual	ITE4	Lazio	0_CHRONIC_GASTR	Chronic patients - suffering from gastric or duodenal ulcer	HSC	Per 100 people with the same characteristics	2023	1.8		
+A	Annual	ITFG	Mezzogiorno	0_GOOD_H	Persons by health conditions and the presence of  chronic diseases: persons  in good health	HSC	Per 100 people with the same characteristics	2022	68.9		
+A	Annual	ITFG	Mezzogiorno	0_GOOD_H	Persons by health conditions and the presence of  chronic diseases: persons  in good health	HSC	Per 100 people with the same characteristics	2023	66.3		
+A	Annual	ITFG	Mezzogiorno	0_ALEAST_1CRON	Persons by health conditions and the presence of  chronic diseases: persons  at least a chronic disease	HSC	Per 100 people with the same characteristics	2022	40.1		
+A	Annual	ITFG	Mezzogiorno	0_ALEAST_1CRON	Persons by health conditions and the presence of  chronic diseases: persons  at least a chronic disease	HSC	Per 100 people with the same characteristics	2023	40.2		
+A	Annual	ITFG	Mezzogiorno	0_ALEAST_2CRON	Persons by health conditions and the presence of  chronic diseases: persons  at least two chronic disease	HSC	Per 100 people with the same characteristics	2022	22.8		
+A	Annual	ITFG	Mezzogiorno	0_ALEAST_2CRON	Persons by health conditions and the presence of  chronic diseases: persons  at least two chronic disease	HSC	Per 100 people with the same characteristics	2023	22.6		
+A	Annual	ITFG	Mezzogiorno	0_CHRONIC_GH	Persons  with chronic diseases in good health	HSC	Per 100 people with the same characteristics	2022	40.3		
+A	Annual	ITFG	Mezzogiorno	0_CHRONIC_GH	Persons  with chronic diseases in good health	HSC	Per 100 people with the same characteristics	2023	37.6		
+A	Annual	ITFG	Mezzogiorno	0_CHRONIC_DIAB	Chronic patients - suffering from diabetes	HSC	Per 100 people with the same characteristics	2022	7.7		
+A	Annual	ITFG	Mezzogiorno	0_CHRONIC_DIAB	Chronic patients - suffering from diabetes	HSC	Per 100 people with the same characteristics	2023	7.2		
+A	Annual	ITFG	Mezzogiorno	0_CHRONIC_HYP	Chronic patients - with hypertension	HSC	Per 100 people with the same characteristics	2022	20		
+A	Annual	ITFG	Mezzogiorno	0_CHRONIC_HYP	Chronic patients - with hypertension	HSC	Per 100 people with the same characteristics	2023	20		
+A	Annual	ITFG	Mezzogiorno	0_CHRONIC_BRONC	Chronic patients - suffering from chronic bronchitis	HSC	Per 100 people with the same characteristics	2022	6.7		
+A	Annual	ITFG	Mezzogiorno	0_CHRONIC_BRONC	Chronic patients - suffering from chronic bronchitis	HSC	Per 100 people with the same characteristics	2023	6.6		
+A	Annual	ITFG	Mezzogiorno	0_CHRONIC_ARTH	Chronic patients - suffering from osteoarthritis, arthritis	HSC	Per 100 people with the same characteristics	2022	15.5		
+A	Annual	ITFG	Mezzogiorno	0_CHRONIC_ARTH	Chronic patients - suffering from osteoarthritis, arthritis	HSC	Per 100 people with the same characteristics	2023	15.8		
+A	Annual	ITFG	Mezzogiorno	0_CHRONIC_OSTEO	Chronic patients - with osteoporosis	HSC	Per 100 people with the same characteristics	2022	8.9		
+A	Annual	ITFG	Mezzogiorno	0_CHRONIC_OSTEO	Chronic patients - with osteoporosis	HSC	Per 100 people with the same characteristics	2023	8.7		
+A	Annual	ITFG	Mezzogiorno	0_CHRONIC_HEART	Chronic patients - suffering from heart disease	HSC	Per 100 people with the same characteristics	2022	4.2		
+A	Annual	ITFG	Mezzogiorno	0_CHRONIC_HEART	Chronic patients - suffering from heart disease	HSC	Per 100 people with the same characteristics	2023	4.3		
+A	Annual	ITFG	Mezzogiorno	0_CHRONIC_ALLER	Chronic patients - suffering from allergic diseases	HSC	Per 100 people with the same characteristics	2022	12.5		
+A	Annual	ITFG	Mezzogiorno	0_CHRONIC_ALLER	Chronic patients - suffering from allergic diseases	HSC	Per 100 people with the same characteristics	2023	11.4		
+A	Annual	ITFG	Mezzogiorno	0_CHRONIC_NERVOUS	Chronic patients - suffering from nervous disorders	HSC	Per 100 people with the same characteristics	2022	5		
+A	Annual	ITFG	Mezzogiorno	0_CHRONIC_NERVOUS	Chronic patients - suffering from nervous disorders	HSC	Per 100 people with the same characteristics	2023	5		
+A	Annual	ITFG	Mezzogiorno	0_CHRONIC_GASTR	Chronic patients - suffering from gastric or duodenal ulcer	HSC	Per 100 people with the same characteristics	2022	2.4		
+A	Annual	ITFG	Mezzogiorno	0_CHRONIC_GASTR	Chronic patients - suffering from gastric or duodenal ulcer	HSC	Per 100 people with the same characteristics	2023	2.1		
+A	Annual	ITF	Sud	0_GOOD_H	Persons by health conditions and the presence of  chronic diseases: persons  in good health	HSC	Per 100 people with the same characteristics	2022	69.4		
+A	Annual	ITF	Sud	0_GOOD_H	Persons by health conditions and the presence of  chronic diseases: persons  in good health	HSC	Per 100 people with the same characteristics	2023	66.7		
+A	Annual	ITF	Sud	0_ALEAST_1CRON	Persons by health conditions and the presence of  chronic diseases: persons  at least a chronic disease	HSC	Per 100 people with the same characteristics	2022	39.9		
+A	Annual	ITF	Sud	0_ALEAST_1CRON	Persons by health conditions and the presence of  chronic diseases: persons  at least a chronic disease	HSC	Per 100 people with the same characteristics	2023	39.8		
+A	Annual	ITF	Sud	0_ALEAST_2CRON	Persons by health conditions and the presence of  chronic diseases: persons  at least two chronic disease	HSC	Per 100 people with the same characteristics	2022	22.4		
+A	Annual	ITF	Sud	0_ALEAST_2CRON	Persons by health conditions and the presence of  chronic diseases: persons  at least two chronic disease	HSC	Per 100 people with the same characteristics	2023	22		
+A	Annual	ITF	Sud	0_CHRONIC_GH	Persons  with chronic diseases in good health	HSC	Per 100 people with the same characteristics	2022	41.7		
+A	Annual	ITF	Sud	0_CHRONIC_GH	Persons  with chronic diseases in good health	HSC	Per 100 people with the same characteristics	2023	38.2		
+A	Annual	ITF	Sud	0_CHRONIC_DIAB	Chronic patients - suffering from diabetes	HSC	Per 100 people with the same characteristics	2022	7.9		
+A	Annual	ITF	Sud	0_CHRONIC_DIAB	Chronic patients - suffering from diabetes	HSC	Per 100 people with the same characteristics	2023	7.1		
+A	Annual	ITF	Sud	0_CHRONIC_HYP	Chronic patients - with hypertension	HSC	Per 100 people with the same characteristics	2022	19.9		
+A	Annual	ITF	Sud	0_CHRONIC_HYP	Chronic patients - with hypertension	HSC	Per 100 people with the same characteristics	2023	19.7		
+A	Annual	ITF	Sud	0_CHRONIC_BRONC	Chronic patients - suffering from chronic bronchitis	HSC	Per 100 people with the same characteristics	2022	6.7		
+A	Annual	ITF	Sud	0_CHRONIC_BRONC	Chronic patients - suffering from chronic bronchitis	HSC	Per 100 people with the same characteristics	2023	6.2		
+A	Annual	ITF	Sud	0_CHRONIC_ARTH	Chronic patients - suffering from osteoarthritis, arthritis	HSC	Per 100 people with the same characteristics	2022	15.2		
+A	Annual	ITF	Sud	0_CHRONIC_ARTH	Chronic patients - suffering from osteoarthritis, arthritis	HSC	Per 100 people with the same characteristics	2023	15.5		
+A	Annual	ITF	Sud	0_CHRONIC_OSTEO	Chronic patients - with osteoporosis	HSC	Per 100 people with the same characteristics	2022	8.3		
+A	Annual	ITF	Sud	0_CHRONIC_OSTEO	Chronic patients - with osteoporosis	HSC	Per 100 people with the same characteristics	2023	8.3		
+A	Annual	ITF	Sud	0_CHRONIC_HEART	Chronic patients - suffering from heart disease	HSC	Per 100 people with the same characteristics	2022	4.4		
+A	Annual	ITF	Sud	0_CHRONIC_HEART	Chronic patients - suffering from heart disease	HSC	Per 100 people with the same characteristics	2023	4.1		
+A	Annual	ITF	Sud	0_CHRONIC_ALLER	Chronic patients - suffering from allergic diseases	HSC	Per 100 people with the same characteristics	2022	12.9		
+A	Annual	ITF	Sud	0_CHRONIC_ALLER	Chronic patients - suffering from allergic diseases	HSC	Per 100 people with the same characteristics	2023	11.2		
+A	Annual	ITF	Sud	0_CHRONIC_NERVOUS	Chronic patients - suffering from nervous disorders	HSC	Per 100 people with the same characteristics	2022	4.6		
+A	Annual	ITF	Sud	0_CHRONIC_NERVOUS	Chronic patients - suffering from nervous disorders	HSC	Per 100 people with the same characteristics	2023	4.9		
+A	Annual	ITF	Sud	0_CHRONIC_GASTR	Chronic patients - suffering from gastric or duodenal ulcer	HSC	Per 100 people with the same characteristics	2022	2.4		
+A	Annual	ITF	Sud	0_CHRONIC_GASTR	Chronic patients - suffering from gastric or duodenal ulcer	HSC	Per 100 people with the same characteristics	2023	2.3		
+A	Annual	ITF1	Abruzzo	0_GOOD_H	Persons by health conditions and the presence of  chronic diseases: persons  in good health	HSC	Per 100 people with the same characteristics	2022	71.7		
+A	Annual	ITF1	Abruzzo	0_GOOD_H	Persons by health conditions and the presence of  chronic diseases: persons  in good health	HSC	Per 100 people with the same characteristics	2023	70.2		
+A	Annual	ITF1	Abruzzo	0_ALEAST_1CRON	Persons by health conditions and the presence of  chronic diseases: persons  at least a chronic disease	HSC	Per 100 people with the same characteristics	2022	41.9		
+A	Annual	ITF1	Abruzzo	0_ALEAST_1CRON	Persons by health conditions and the presence of  chronic diseases: persons  at least a chronic disease	HSC	Per 100 people with the same characteristics	2023	39		
+A	Annual	ITF1	Abruzzo	0_ALEAST_2CRON	Persons by health conditions and the presence of  chronic diseases: persons  at least two chronic disease	HSC	Per 100 people with the same characteristics	2022	20.7		
+A	Annual	ITF1	Abruzzo	0_ALEAST_2CRON	Persons by health conditions and the presence of  chronic diseases: persons  at least two chronic disease	HSC	Per 100 people with the same characteristics	2023	20.9		
+A	Annual	ITF1	Abruzzo	0_CHRONIC_GH	Persons  with chronic diseases in good health	HSC	Per 100 people with the same characteristics	2022	48.2		
+A	Annual	ITF1	Abruzzo	0_CHRONIC_GH	Persons  with chronic diseases in good health	HSC	Per 100 people with the same characteristics	2023	44.2		
+A	Annual	ITF1	Abruzzo	0_CHRONIC_DIAB	Chronic patients - suffering from diabetes	HSC	Per 100 people with the same characteristics	2022	6.4		
+A	Annual	ITF1	Abruzzo	0_CHRONIC_DIAB	Chronic patients - suffering from diabetes	HSC	Per 100 people with the same characteristics	2023	4.9		
+A	Annual	ITF1	Abruzzo	0_CHRONIC_HYP	Chronic patients - with hypertension	HSC	Per 100 people with the same characteristics	2022	19.6		
+A	Annual	ITF1	Abruzzo	0_CHRONIC_HYP	Chronic patients - with hypertension	HSC	Per 100 people with the same characteristics	2023	18.2		
+A	Annual	ITF1	Abruzzo	0_CHRONIC_BRONC	Chronic patients - suffering from chronic bronchitis	HSC	Per 100 people with the same characteristics	2022	4.4		
+A	Annual	ITF1	Abruzzo	0_CHRONIC_BRONC	Chronic patients - suffering from chronic bronchitis	HSC	Per 100 people with the same characteristics	2023	6.1		
+A	Annual	ITF1	Abruzzo	0_CHRONIC_ARTH	Chronic patients - suffering from osteoarthritis, arthritis	HSC	Per 100 people with the same characteristics	2022	14.5		
+A	Annual	ITF1	Abruzzo	0_CHRONIC_ARTH	Chronic patients - suffering from osteoarthritis, arthritis	HSC	Per 100 people with the same characteristics	2023	13.9		
+A	Annual	ITF1	Abruzzo	0_CHRONIC_OSTEO	Chronic patients - with osteoporosis	HSC	Per 100 people with the same characteristics	2022	9.4		
+A	Annual	ITF1	Abruzzo	0_CHRONIC_OSTEO	Chronic patients - with osteoporosis	HSC	Per 100 people with the same characteristics	2023	8.4		
+A	Annual	ITF1	Abruzzo	0_CHRONIC_HEART	Chronic patients - suffering from heart disease	HSC	Per 100 people with the same characteristics	2022	3.6		
+A	Annual	ITF1	Abruzzo	0_CHRONIC_HEART	Chronic patients - suffering from heart disease	HSC	Per 100 people with the same characteristics	2023	5		
+A	Annual	ITF1	Abruzzo	0_CHRONIC_ALLER	Chronic patients - suffering from allergic diseases	HSC	Per 100 people with the same characteristics	2022	13.1		
+A	Annual	ITF1	Abruzzo	0_CHRONIC_ALLER	Chronic patients - suffering from allergic diseases	HSC	Per 100 people with the same characteristics	2023	11.4		
+A	Annual	ITF1	Abruzzo	0_CHRONIC_NERVOUS	Chronic patients - suffering from nervous disorders	HSC	Per 100 people with the same characteristics	2022	3.8		
+A	Annual	ITF1	Abruzzo	0_CHRONIC_NERVOUS	Chronic patients - suffering from nervous disorders	HSC	Per 100 people with the same characteristics	2023	4.8		
+A	Annual	ITF1	Abruzzo	0_CHRONIC_GASTR	Chronic patients - suffering from gastric or duodenal ulcer	HSC	Per 100 people with the same characteristics	2022	2.2		
+A	Annual	ITF1	Abruzzo	0_CHRONIC_GASTR	Chronic patients - suffering from gastric or duodenal ulcer	HSC	Per 100 people with the same characteristics	2023	2.1		
+A	Annual	ITF2	Molise	0_GOOD_H	Persons by health conditions and the presence of  chronic diseases: persons  in good health	HSC	Per 100 people with the same characteristics	2022	67.2		
+A	Annual	ITF2	Molise	0_GOOD_H	Persons by health conditions and the presence of  chronic diseases: persons  in good health	HSC	Per 100 people with the same characteristics	2023	61.7		
+A	Annual	ITF2	Molise	0_ALEAST_1CRON	Persons by health conditions and the presence of  chronic diseases: persons  at least a chronic disease	HSC	Per 100 people with the same characteristics	2022	39.5		
+A	Annual	ITF2	Molise	0_ALEAST_1CRON	Persons by health conditions and the presence of  chronic diseases: persons  at least a chronic disease	HSC	Per 100 people with the same characteristics	2023	45.9		
+A	Annual	ITF2	Molise	0_ALEAST_2CRON	Persons by health conditions and the presence of  chronic diseases: persons  at least two chronic disease	HSC	Per 100 people with the same characteristics	2022	23.2		
+A	Annual	ITF2	Molise	0_ALEAST_2CRON	Persons by health conditions and the presence of  chronic diseases: persons  at least two chronic disease	HSC	Per 100 people with the same characteristics	2023	26.5		
+A	Annual	ITF2	Molise	0_CHRONIC_GH	Persons  with chronic diseases in good health	HSC	Per 100 people with the same characteristics	2022	40.2		
+A	Annual	ITF2	Molise	0_CHRONIC_GH	Persons  with chronic diseases in good health	HSC	Per 100 people with the same characteristics	2023	38		
+A	Annual	ITF2	Molise	0_CHRONIC_DIAB	Chronic patients - suffering from diabetes	HSC	Per 100 people with the same characteristics	2022	7.5		
+A	Annual	ITF2	Molise	0_CHRONIC_DIAB	Chronic patients - suffering from diabetes	HSC	Per 100 people with the same characteristics	2023	9.1		
+A	Annual	ITF2	Molise	0_CHRONIC_HYP	Chronic patients - with hypertension	HSC	Per 100 people with the same characteristics	2022	20.2		
+A	Annual	ITF2	Molise	0_CHRONIC_HYP	Chronic patients - with hypertension	HSC	Per 100 people with the same characteristics	2023	23.9		
+A	Annual	ITF2	Molise	0_CHRONIC_BRONC	Chronic patients - suffering from chronic bronchitis	HSC	Per 100 people with the same characteristics	2022	5.5		
+A	Annual	ITF2	Molise	0_CHRONIC_BRONC	Chronic patients - suffering from chronic bronchitis	HSC	Per 100 people with the same characteristics	2023	5.4		
+A	Annual	ITF2	Molise	0_CHRONIC_ARTH	Chronic patients - suffering from osteoarthritis, arthritis	HSC	Per 100 people with the same characteristics	2022	18		
+A	Annual	ITF2	Molise	0_CHRONIC_ARTH	Chronic patients - suffering from osteoarthritis, arthritis	HSC	Per 100 people with the same characteristics	2023	18.8		
+A	Annual	ITF2	Molise	0_CHRONIC_OSTEO	Chronic patients - with osteoporosis	HSC	Per 100 people with the same characteristics	2022	8.4		
+A	Annual	ITF2	Molise	0_CHRONIC_OSTEO	Chronic patients - with osteoporosis	HSC	Per 100 people with the same characteristics	2023	9.6		
+A	Annual	ITF2	Molise	0_CHRONIC_HEART	Chronic patients - suffering from heart disease	HSC	Per 100 people with the same characteristics	2022	4.5		
+A	Annual	ITF2	Molise	0_CHRONIC_HEART	Chronic patients - suffering from heart disease	HSC	Per 100 people with the same characteristics	2023	5.4		
+A	Annual	ITF2	Molise	0_CHRONIC_ALLER	Chronic patients - suffering from allergic diseases	HSC	Per 100 people with the same characteristics	2022	9.6		
+A	Annual	ITF2	Molise	0_CHRONIC_ALLER	Chronic patients - suffering from allergic diseases	HSC	Per 100 people with the same characteristics	2023	11.3		
+A	Annual	ITF2	Molise	0_CHRONIC_NERVOUS	Chronic patients - suffering from nervous disorders	HSC	Per 100 people with the same characteristics	2022	4		
+A	Annual	ITF2	Molise	0_CHRONIC_NERVOUS	Chronic patients - suffering from nervous disorders	HSC	Per 100 people with the same characteristics	2023	5		
+A	Annual	ITF2	Molise	0_CHRONIC_GASTR	Chronic patients - suffering from gastric or duodenal ulcer	HSC	Per 100 people with the same characteristics	2022	3		
+A	Annual	ITF2	Molise	0_CHRONIC_GASTR	Chronic patients - suffering from gastric or duodenal ulcer	HSC	Per 100 people with the same characteristics	2023	2.6		
+A	Annual	ITF3	Campania	0_GOOD_H	Persons by health conditions and the presence of  chronic diseases: persons  in good health	HSC	Per 100 people with the same characteristics	2022	72		
+A	Annual	ITF3	Campania	0_GOOD_H	Persons by health conditions and the presence of  chronic diseases: persons  in good health	HSC	Per 100 people with the same characteristics	2023	68.7		
+A	Annual	ITF3	Campania	0_ALEAST_1CRON	Persons by health conditions and the presence of  chronic diseases: persons  at least a chronic disease	HSC	Per 100 people with the same characteristics	2022	39.7		
+A	Annual	ITF3	Campania	0_ALEAST_1CRON	Persons by health conditions and the presence of  chronic diseases: persons  at least a chronic disease	HSC	Per 100 people with the same characteristics	2023	37.4		
+A	Annual	ITF3	Campania	0_ALEAST_2CRON	Persons by health conditions and the presence of  chronic diseases: persons  at least two chronic disease	HSC	Per 100 people with the same characteristics	2022	22.5		
+A	Annual	ITF3	Campania	0_ALEAST_2CRON	Persons by health conditions and the presence of  chronic diseases: persons  at least two chronic disease	HSC	Per 100 people with the same characteristics	2023	21.1		
+A	Annual	ITF3	Campania	0_CHRONIC_GH	Persons  with chronic diseases in good health	HSC	Per 100 people with the same characteristics	2022	44.1		
+A	Annual	ITF3	Campania	0_CHRONIC_GH	Persons  with chronic diseases in good health	HSC	Per 100 people with the same characteristics	2023	38.7		
+A	Annual	ITF3	Campania	0_CHRONIC_DIAB	Chronic patients - suffering from diabetes	HSC	Per 100 people with the same characteristics	2022	8.3		
+A	Annual	ITF3	Campania	0_CHRONIC_DIAB	Chronic patients - suffering from diabetes	HSC	Per 100 people with the same characteristics	2023	6.8		
+A	Annual	ITF3	Campania	0_CHRONIC_HYP	Chronic patients - with hypertension	HSC	Per 100 people with the same characteristics	2022	19.8		
+A	Annual	ITF3	Campania	0_CHRONIC_HYP	Chronic patients - with hypertension	HSC	Per 100 people with the same characteristics	2023	18.7		
+A	Annual	ITF3	Campania	0_CHRONIC_BRONC	Chronic patients - suffering from chronic bronchitis	HSC	Per 100 people with the same characteristics	2022	7.6		
+A	Annual	ITF3	Campania	0_CHRONIC_BRONC	Chronic patients - suffering from chronic bronchitis	HSC	Per 100 people with the same characteristics	2023	7.3		
+A	Annual	ITF3	Campania	0_CHRONIC_ARTH	Chronic patients - suffering from osteoarthritis, arthritis	HSC	Per 100 people with the same characteristics	2022	14.4		
+A	Annual	ITF3	Campania	0_CHRONIC_ARTH	Chronic patients - suffering from osteoarthritis, arthritis	HSC	Per 100 people with the same characteristics	2023	14.7		
+A	Annual	ITF3	Campania	0_CHRONIC_OSTEO	Chronic patients - with osteoporosis	HSC	Per 100 people with the same characteristics	2022	7.9		
+A	Annual	ITF3	Campania	0_CHRONIC_OSTEO	Chronic patients - with osteoporosis	HSC	Per 100 people with the same characteristics	2023	7.6		
+A	Annual	ITF3	Campania	0_CHRONIC_HEART	Chronic patients - suffering from heart disease	HSC	Per 100 people with the same characteristics	2022	4.2		
+A	Annual	ITF3	Campania	0_CHRONIC_HEART	Chronic patients - suffering from heart disease	HSC	Per 100 people with the same characteristics	2023	3.8		
+A	Annual	ITF3	Campania	0_CHRONIC_ALLER	Chronic patients - suffering from allergic diseases	HSC	Per 100 people with the same characteristics	2022	14.8		
+A	Annual	ITF3	Campania	0_CHRONIC_ALLER	Chronic patients - suffering from allergic diseases	HSC	Per 100 people with the same characteristics	2023	10.6		
+A	Annual	ITF3	Campania	0_CHRONIC_NERVOUS	Chronic patients - suffering from nervous disorders	HSC	Per 100 people with the same characteristics	2022	4.8		
+A	Annual	ITF3	Campania	0_CHRONIC_NERVOUS	Chronic patients - suffering from nervous disorders	HSC	Per 100 people with the same characteristics	2023	4.9		
+A	Annual	ITF3	Campania	0_CHRONIC_GASTR	Chronic patients - suffering from gastric or duodenal ulcer	HSC	Per 100 people with the same characteristics	2022	2.3		
+A	Annual	ITF3	Campania	0_CHRONIC_GASTR	Chronic patients - suffering from gastric or duodenal ulcer	HSC	Per 100 people with the same characteristics	2023	2.2		
+A	Annual	ITF4	Puglia	0_GOOD_H	Persons by health conditions and the presence of  chronic diseases: persons  in good health	HSC	Per 100 people with the same characteristics	2022	68.8		
+A	Annual	ITF4	Puglia	0_GOOD_H	Persons by health conditions and the presence of  chronic diseases: persons  in good health	HSC	Per 100 people with the same characteristics	2023	64.9		
+A	Annual	ITF4	Puglia	0_ALEAST_1CRON	Persons by health conditions and the presence of  chronic diseases: persons  at least a chronic disease	HSC	Per 100 people with the same characteristics	2022	38.7		
+A	Annual	ITF4	Puglia	0_ALEAST_1CRON	Persons by health conditions and the presence of  chronic diseases: persons  at least a chronic disease	HSC	Per 100 people with the same characteristics	2023	42.7		
+A	Annual	ITF4	Puglia	0_ALEAST_2CRON	Persons by health conditions and the presence of  chronic diseases: persons  at least two chronic disease	HSC	Per 100 people with the same characteristics	2022	21.4		
+A	Annual	ITF4	Puglia	0_ALEAST_2CRON	Persons by health conditions and the presence of  chronic diseases: persons  at least two chronic disease	HSC	Per 100 people with the same characteristics	2023	22.4		
+A	Annual	ITF4	Puglia	0_CHRONIC_GH	Persons  with chronic diseases in good health	HSC	Per 100 people with the same characteristics	2022	40.2		
+A	Annual	ITF4	Puglia	0_CHRONIC_GH	Persons  with chronic diseases in good health	HSC	Per 100 people with the same characteristics	2023	38.7		
+A	Annual	ITF4	Puglia	0_CHRONIC_DIAB	Chronic patients - suffering from diabetes	HSC	Per 100 people with the same characteristics	2022	7.6		
+A	Annual	ITF4	Puglia	0_CHRONIC_DIAB	Chronic patients - suffering from diabetes	HSC	Per 100 people with the same characteristics	2023	7		
+A	Annual	ITF4	Puglia	0_CHRONIC_HYP	Chronic patients - with hypertension	HSC	Per 100 people with the same characteristics	2022	19		
+A	Annual	ITF4	Puglia	0_CHRONIC_HYP	Chronic patients - with hypertension	HSC	Per 100 people with the same characteristics	2023	20.3		
+A	Annual	ITF4	Puglia	0_CHRONIC_BRONC	Chronic patients - suffering from chronic bronchitis	HSC	Per 100 people with the same characteristics	2022	6		
+A	Annual	ITF4	Puglia	0_CHRONIC_BRONC	Chronic patients - suffering from chronic bronchitis	HSC	Per 100 people with the same characteristics	2023	5.3		
+A	Annual	ITF4	Puglia	0_CHRONIC_ARTH	Chronic patients - suffering from osteoarthritis, arthritis	HSC	Per 100 people with the same characteristics	2022	15.4		
+A	Annual	ITF4	Puglia	0_CHRONIC_ARTH	Chronic patients - suffering from osteoarthritis, arthritis	HSC	Per 100 people with the same characteristics	2023	16.2		
+A	Annual	ITF4	Puglia	0_CHRONIC_OSTEO	Chronic patients - with osteoporosis	HSC	Per 100 people with the same characteristics	2022	8.3		
+A	Annual	ITF4	Puglia	0_CHRONIC_OSTEO	Chronic patients - with osteoporosis	HSC	Per 100 people with the same characteristics	2023	8.6		
+A	Annual	ITF4	Puglia	0_CHRONIC_HEART	Chronic patients - suffering from heart disease	HSC	Per 100 people with the same characteristics	2022	4.8		
+A	Annual	ITF4	Puglia	0_CHRONIC_HEART	Chronic patients - suffering from heart disease	HSC	Per 100 people with the same characteristics	2023	4.2		
+A	Annual	ITF4	Puglia	0_CHRONIC_ALLER	Chronic patients - suffering from allergic diseases	HSC	Per 100 people with the same characteristics	2022	10.1		
+A	Annual	ITF4	Puglia	0_CHRONIC_ALLER	Chronic patients - suffering from allergic diseases	HSC	Per 100 people with the same characteristics	2023	12.3		
+A	Annual	ITF4	Puglia	0_CHRONIC_NERVOUS	Chronic patients - suffering from nervous disorders	HSC	Per 100 people with the same characteristics	2022	4.3		
+A	Annual	ITF4	Puglia	0_CHRONIC_NERVOUS	Chronic patients - suffering from nervous disorders	HSC	Per 100 people with the same characteristics	2023	4.9		
+A	Annual	ITF4	Puglia	0_CHRONIC_GASTR	Chronic patients - suffering from gastric or duodenal ulcer	HSC	Per 100 people with the same characteristics	2022	2.3		
+A	Annual	ITF4	Puglia	0_CHRONIC_GASTR	Chronic patients - suffering from gastric or duodenal ulcer	HSC	Per 100 people with the same characteristics	2023	2.1		
+A	Annual	ITF5	Basilicata	0_GOOD_H	Persons by health conditions and the presence of  chronic diseases: persons  in good health	HSC	Per 100 people with the same characteristics	2022	66.6		
+A	Annual	ITF5	Basilicata	0_GOOD_H	Persons by health conditions and the presence of  chronic diseases: persons  in good health	HSC	Per 100 people with the same characteristics	2023	60.2		
+A	Annual	ITF5	Basilicata	0_ALEAST_1CRON	Persons by health conditions and the presence of  chronic diseases: persons  at least a chronic disease	HSC	Per 100 people with the same characteristics	2022	42.5		
+A	Annual	ITF5	Basilicata	0_ALEAST_1CRON	Persons by health conditions and the presence of  chronic diseases: persons  at least a chronic disease	HSC	Per 100 people with the same characteristics	2023	44		
+A	Annual	ITF5	Basilicata	0_ALEAST_2CRON	Persons by health conditions and the presence of  chronic diseases: persons  at least two chronic disease	HSC	Per 100 people with the same characteristics	2022	25.5		
+A	Annual	ITF5	Basilicata	0_ALEAST_2CRON	Persons by health conditions and the presence of  chronic diseases: persons  at least two chronic disease	HSC	Per 100 people with the same characteristics	2023	24.2		
+A	Annual	ITF5	Basilicata	0_CHRONIC_GH	Persons  with chronic diseases in good health	HSC	Per 100 people with the same characteristics	2022	39.6		
+A	Annual	ITF5	Basilicata	0_CHRONIC_GH	Persons  with chronic diseases in good health	HSC	Per 100 people with the same characteristics	2023	33.3		
+A	Annual	ITF5	Basilicata	0_CHRONIC_DIAB	Chronic patients - suffering from diabetes	HSC	Per 100 people with the same characteristics	2022	7.6		
+A	Annual	ITF5	Basilicata	0_CHRONIC_DIAB	Chronic patients - suffering from diabetes	HSC	Per 100 people with the same characteristics	2023	8		
+A	Annual	ITF5	Basilicata	0_CHRONIC_HYP	Chronic patients - with hypertension	HSC	Per 100 people with the same characteristics	2022	23		
+A	Annual	ITF5	Basilicata	0_CHRONIC_HYP	Chronic patients - with hypertension	HSC	Per 100 people with the same characteristics	2023	20.4		
+A	Annual	ITF5	Basilicata	0_CHRONIC_BRONC	Chronic patients - suffering from chronic bronchitis	HSC	Per 100 people with the same characteristics	2022	7.9		
+A	Annual	ITF5	Basilicata	0_CHRONIC_BRONC	Chronic patients - suffering from chronic bronchitis	HSC	Per 100 people with the same characteristics	2023	6.5		
+A	Annual	ITF5	Basilicata	0_CHRONIC_ARTH	Chronic patients - suffering from osteoarthritis, arthritis	HSC	Per 100 people with the same characteristics	2022	16.6		
+A	Annual	ITF5	Basilicata	0_CHRONIC_ARTH	Chronic patients - suffering from osteoarthritis, arthritis	HSC	Per 100 people with the same characteristics	2023	16.8		
+A	Annual	ITF5	Basilicata	0_CHRONIC_OSTEO	Chronic patients - with osteoporosis	HSC	Per 100 people with the same characteristics	2022	11		
+A	Annual	ITF5	Basilicata	0_CHRONIC_OSTEO	Chronic patients - with osteoporosis	HSC	Per 100 people with the same characteristics	2023	9.4		
+A	Annual	ITF5	Basilicata	0_CHRONIC_HEART	Chronic patients - suffering from heart disease	HSC	Per 100 people with the same characteristics	2022	3.5		
+A	Annual	ITF5	Basilicata	0_CHRONIC_HEART	Chronic patients - suffering from heart disease	HSC	Per 100 people with the same characteristics	2023	3.5		
+A	Annual	ITF5	Basilicata	0_CHRONIC_ALLER	Chronic patients - suffering from allergic diseases	HSC	Per 100 people with the same characteristics	2022	12.7		
+A	Annual	ITF5	Basilicata	0_CHRONIC_ALLER	Chronic patients - suffering from allergic diseases	HSC	Per 100 people with the same characteristics	2023	12.4		
+A	Annual	ITF5	Basilicata	0_CHRONIC_NERVOUS	Chronic patients - suffering from nervous disorders	HSC	Per 100 people with the same characteristics	2022	4.8		
+A	Annual	ITF5	Basilicata	0_CHRONIC_NERVOUS	Chronic patients - suffering from nervous disorders	HSC	Per 100 people with the same characteristics	2023	5.1		
+A	Annual	ITF5	Basilicata	0_CHRONIC_GASTR	Chronic patients - suffering from gastric or duodenal ulcer	HSC	Per 100 people with the same characteristics	2022	3.7		
+A	Annual	ITF5	Basilicata	0_CHRONIC_GASTR	Chronic patients - suffering from gastric or duodenal ulcer	HSC	Per 100 people with the same characteristics	2023	2.5		
+A	Annual	ITF6	Calabria	0_GOOD_H	Persons by health conditions and the presence of  chronic diseases: persons  in good health	HSC	Per 100 people with the same characteristics	2022	62.2		
+A	Annual	ITF6	Calabria	0_GOOD_H	Persons by health conditions and the presence of  chronic diseases: persons  in good health	HSC	Per 100 people with the same characteristics	2023	64.8		
+A	Annual	ITF6	Calabria	0_ALEAST_1CRON	Persons by health conditions and the presence of  chronic diseases: persons  at least a chronic disease	HSC	Per 100 people with the same characteristics	2022	40.9		
+A	Annual	ITF6	Calabria	0_ALEAST_1CRON	Persons by health conditions and the presence of  chronic diseases: persons  at least a chronic disease	HSC	Per 100 people with the same characteristics	2023	39.1		
+A	Annual	ITF6	Calabria	0_ALEAST_2CRON	Persons by health conditions and the presence of  chronic diseases: persons  at least two chronic disease	HSC	Per 100 people with the same characteristics	2022	24.3		
+A	Annual	ITF6	Calabria	0_ALEAST_2CRON	Persons by health conditions and the presence of  chronic diseases: persons  at least two chronic disease	HSC	Per 100 people with the same characteristics	2023	23.8		
+A	Annual	ITF6	Calabria	0_CHRONIC_GH	Persons  with chronic diseases in good health	HSC	Per 100 people with the same characteristics	2022	34.2		
+A	Annual	ITF6	Calabria	0_CHRONIC_GH	Persons  with chronic diseases in good health	HSC	Per 100 people with the same characteristics	2023	33.4		
+A	Annual	ITF6	Calabria	0_CHRONIC_DIAB	Chronic patients - suffering from diabetes	HSC	Per 100 people with the same characteristics	2022	8.5		
+A	Annual	ITF6	Calabria	0_CHRONIC_DIAB	Chronic patients - suffering from diabetes	HSC	Per 100 people with the same characteristics	2023	9		
+A	Annual	ITF6	Calabria	0_CHRONIC_HYP	Chronic patients - with hypertension	HSC	Per 100 people with the same characteristics	2022	21.5		
+A	Annual	ITF6	Calabria	0_CHRONIC_HYP	Chronic patients - with hypertension	HSC	Per 100 people with the same characteristics	2023	21.5		
+A	Annual	ITF6	Calabria	0_CHRONIC_BRONC	Chronic patients - suffering from chronic bronchitis	HSC	Per 100 people with the same characteristics	2022	7		
+A	Annual	ITF6	Calabria	0_CHRONIC_BRONC	Chronic patients - suffering from chronic bronchitis	HSC	Per 100 people with the same characteristics	2023	5.1		
+A	Annual	ITF6	Calabria	0_CHRONIC_ARTH	Chronic patients - suffering from osteoarthritis, arthritis	HSC	Per 100 people with the same characteristics	2022	17.2		
+A	Annual	ITF6	Calabria	0_CHRONIC_ARTH	Chronic patients - suffering from osteoarthritis, arthritis	HSC	Per 100 people with the same characteristics	2023	16.8		
+A	Annual	ITF6	Calabria	0_CHRONIC_OSTEO	Chronic patients - with osteoporosis	HSC	Per 100 people with the same characteristics	2022	8		
+A	Annual	ITF6	Calabria	0_CHRONIC_OSTEO	Chronic patients - with osteoporosis	HSC	Per 100 people with the same characteristics	2023	9.4		
+A	Annual	ITF6	Calabria	0_CHRONIC_HEART	Chronic patients - suffering from heart disease	HSC	Per 100 people with the same characteristics	2022	5.3		
+A	Annual	ITF6	Calabria	0_CHRONIC_HEART	Chronic patients - suffering from heart disease	HSC	Per 100 people with the same characteristics	2023	3.9		
+A	Annual	ITF6	Calabria	0_CHRONIC_ALLER	Chronic patients - suffering from allergic diseases	HSC	Per 100 people with the same characteristics	2022	13.3		
+A	Annual	ITF6	Calabria	0_CHRONIC_ALLER	Chronic patients - suffering from allergic diseases	HSC	Per 100 people with the same characteristics	2023	10.4		
+A	Annual	ITF6	Calabria	0_CHRONIC_NERVOUS	Chronic patients - suffering from nervous disorders	HSC	Per 100 people with the same characteristics	2022	5.2		
+A	Annual	ITF6	Calabria	0_CHRONIC_NERVOUS	Chronic patients - suffering from nervous disorders	HSC	Per 100 people with the same characteristics	2023	5		
+A	Annual	ITF6	Calabria	0_CHRONIC_GASTR	Chronic patients - suffering from gastric or duodenal ulcer	HSC	Per 100 people with the same characteristics	2022	3		
+A	Annual	ITF6	Calabria	0_CHRONIC_GASTR	Chronic patients - suffering from gastric or duodenal ulcer	HSC	Per 100 people with the same characteristics	2023	2.8		
+A	Annual	ITG	Isole	0_GOOD_H	Persons by health conditions and the presence of  chronic diseases: persons  in good health	HSC	Per 100 people with the same characteristics	2022	68		
+A	Annual	ITG	Isole	0_GOOD_H	Persons by health conditions and the presence of  chronic diseases: persons  in good health	HSC	Per 100 people with the same characteristics	2023	65.5		
+A	Annual	ITG	Isole	0_ALEAST_1CRON	Persons by health conditions and the presence of  chronic diseases: persons  at least a chronic disease	HSC	Per 100 people with the same characteristics	2022	40.6		
+A	Annual	ITG	Isole	0_ALEAST_1CRON	Persons by health conditions and the presence of  chronic diseases: persons  at least a chronic disease	HSC	Per 100 people with the same characteristics	2023	41		
+A	Annual	ITG	Isole	0_ALEAST_2CRON	Persons by health conditions and the presence of  chronic diseases: persons  at least two chronic disease	HSC	Per 100 people with the same characteristics	2022	23.5		
+A	Annual	ITG	Isole	0_ALEAST_2CRON	Persons by health conditions and the presence of  chronic diseases: persons  at least two chronic disease	HSC	Per 100 people with the same characteristics	2023	23.8		
+A	Annual	ITG	Isole	0_CHRONIC_GH	Persons  with chronic diseases in good health	HSC	Per 100 people with the same characteristics	2022	37.2		
+A	Annual	ITG	Isole	0_CHRONIC_GH	Persons  with chronic diseases in good health	HSC	Per 100 people with the same characteristics	2023	36.4		
+A	Annual	ITG	Isole	0_CHRONIC_DIAB	Chronic patients - suffering from diabetes	HSC	Per 100 people with the same characteristics	2022	7.4		
+A	Annual	ITG	Isole	0_CHRONIC_DIAB	Chronic patients - suffering from diabetes	HSC	Per 100 people with the same characteristics	2023	7.4		
+A	Annual	ITG	Isole	0_CHRONIC_HYP	Chronic patients - with hypertension	HSC	Per 100 people with the same characteristics	2022	20.1		
+A	Annual	ITG	Isole	0_CHRONIC_HYP	Chronic patients - with hypertension	HSC	Per 100 people with the same characteristics	2023	20.8		
+A	Annual	ITG	Isole	0_CHRONIC_BRONC	Chronic patients - suffering from chronic bronchitis	HSC	Per 100 people with the same characteristics	2022	6.6		
+A	Annual	ITG	Isole	0_CHRONIC_BRONC	Chronic patients - suffering from chronic bronchitis	HSC	Per 100 people with the same characteristics	2023	7.4		
+A	Annual	ITG	Isole	0_CHRONIC_ARTH	Chronic patients - suffering from osteoarthritis, arthritis	HSC	Per 100 people with the same characteristics	2022	16.1		
+A	Annual	ITG	Isole	0_CHRONIC_ARTH	Chronic patients - suffering from osteoarthritis, arthritis	HSC	Per 100 people with the same characteristics	2023	16.4		
+A	Annual	ITG	Isole	0_CHRONIC_OSTEO	Chronic patients - with osteoporosis	HSC	Per 100 people with the same characteristics	2022	10.2		
+A	Annual	ITG	Isole	0_CHRONIC_OSTEO	Chronic patients - with osteoporosis	HSC	Per 100 people with the same characteristics	2023	9.6		
+A	Annual	ITG	Isole	0_CHRONIC_HEART	Chronic patients - suffering from heart disease	HSC	Per 100 people with the same characteristics	2022	3.7		
+A	Annual	ITG	Isole	0_CHRONIC_HEART	Chronic patients - suffering from heart disease	HSC	Per 100 people with the same characteristics	2023	4.7		
+A	Annual	ITG	Isole	0_CHRONIC_ALLER	Chronic patients - suffering from allergic diseases	HSC	Per 100 people with the same characteristics	2022	11.7		
+A	Annual	ITG	Isole	0_CHRONIC_ALLER	Chronic patients - suffering from allergic diseases	HSC	Per 100 people with the same characteristics	2023	11.9		
+A	Annual	ITG	Isole	0_CHRONIC_NERVOUS	Chronic patients - suffering from nervous disorders	HSC	Per 100 people with the same characteristics	2022	5.7		
+A	Annual	ITG	Isole	0_CHRONIC_NERVOUS	Chronic patients - suffering from nervous disorders	HSC	Per 100 people with the same characteristics	2023	5.2		
+A	Annual	ITG	Isole	0_CHRONIC_GASTR	Chronic patients - suffering from gastric or duodenal ulcer	HSC	Per 100 people with the same characteristics	2022	2.3		
+A	Annual	ITG	Isole	0_CHRONIC_GASTR	Chronic patients - suffering from gastric or duodenal ulcer	HSC	Per 100 people with the same characteristics	2023	1.9		
+A	Annual	ITG1	Sicilia	0_GOOD_H	Persons by health conditions and the presence of  chronic diseases: persons  in good health	HSC	Per 100 people with the same characteristics	2022	68.6		
+A	Annual	ITG1	Sicilia	0_GOOD_H	Persons by health conditions and the presence of  chronic diseases: persons  in good health	HSC	Per 100 people with the same characteristics	2023	66.3		
+A	Annual	ITG1	Sicilia	0_ALEAST_1CRON	Persons by health conditions and the presence of  chronic diseases: persons  at least a chronic disease	HSC	Per 100 people with the same characteristics	2022	39.2		
+A	Annual	ITG1	Sicilia	0_ALEAST_1CRON	Persons by health conditions and the presence of  chronic diseases: persons  at least a chronic disease	HSC	Per 100 people with the same characteristics	2023	39.8		
+A	Annual	ITG1	Sicilia	0_ALEAST_2CRON	Persons by health conditions and the presence of  chronic diseases: persons  at least two chronic disease	HSC	Per 100 people with the same characteristics	2022	23		
+A	Annual	ITG1	Sicilia	0_ALEAST_2CRON	Persons by health conditions and the presence of  chronic diseases: persons  at least two chronic disease	HSC	Per 100 people with the same characteristics	2023	23.3		
+A	Annual	ITG1	Sicilia	0_CHRONIC_GH	Persons  with chronic diseases in good health	HSC	Per 100 people with the same characteristics	2022	35		
+A	Annual	ITG1	Sicilia	0_CHRONIC_GH	Persons  with chronic diseases in good health	HSC	Per 100 people with the same characteristics	2023	35.7		
+A	Annual	ITG1	Sicilia	0_CHRONIC_DIAB	Chronic patients - suffering from diabetes	HSC	Per 100 people with the same characteristics	2022	7.6		
+A	Annual	ITG1	Sicilia	0_CHRONIC_DIAB	Chronic patients - suffering from diabetes	HSC	Per 100 people with the same characteristics	2023	7.8		
+A	Annual	ITG1	Sicilia	0_CHRONIC_HYP	Chronic patients - with hypertension	HSC	Per 100 people with the same characteristics	2022	20.5		
+A	Annual	ITG1	Sicilia	0_CHRONIC_HYP	Chronic patients - with hypertension	HSC	Per 100 people with the same characteristics	2023	21.3		
+A	Annual	ITG1	Sicilia	0_CHRONIC_BRONC	Chronic patients - suffering from chronic bronchitis	HSC	Per 100 people with the same characteristics	2022	6.2		
+A	Annual	ITG1	Sicilia	0_CHRONIC_BRONC	Chronic patients - suffering from chronic bronchitis	HSC	Per 100 people with the same characteristics	2023	7.4		
+A	Annual	ITG1	Sicilia	0_CHRONIC_ARTH	Chronic patients - suffering from osteoarthritis, arthritis	HSC	Per 100 people with the same characteristics	2022	15.6		
+A	Annual	ITG1	Sicilia	0_CHRONIC_ARTH	Chronic patients - suffering from osteoarthritis, arthritis	HSC	Per 100 people with the same characteristics	2023	15.8		
+A	Annual	ITG1	Sicilia	0_CHRONIC_OSTEO	Chronic patients - with osteoporosis	HSC	Per 100 people with the same characteristics	2022	9.5		
+A	Annual	ITG1	Sicilia	0_CHRONIC_OSTEO	Chronic patients - with osteoporosis	HSC	Per 100 people with the same characteristics	2023	9.5		
+A	Annual	ITG1	Sicilia	0_CHRONIC_HEART	Chronic patients - suffering from heart disease	HSC	Per 100 people with the same characteristics	2022	3.5		
+A	Annual	ITG1	Sicilia	0_CHRONIC_HEART	Chronic patients - suffering from heart disease	HSC	Per 100 people with the same characteristics	2023	4.8		
+A	Annual	ITG1	Sicilia	0_CHRONIC_ALLER	Chronic patients - suffering from allergic diseases	HSC	Per 100 people with the same characteristics	2022	11.3		
+A	Annual	ITG1	Sicilia	0_CHRONIC_ALLER	Chronic patients - suffering from allergic diseases	HSC	Per 100 people with the same characteristics	2023	11.4		
+A	Annual	ITG1	Sicilia	0_CHRONIC_NERVOUS	Chronic patients - suffering from nervous disorders	HSC	Per 100 people with the same characteristics	2022	5.7		
+A	Annual	ITG1	Sicilia	0_CHRONIC_NERVOUS	Chronic patients - suffering from nervous disorders	HSC	Per 100 people with the same characteristics	2023	5.3		
+A	Annual	ITG1	Sicilia	0_CHRONIC_GASTR	Chronic patients - suffering from gastric or duodenal ulcer	HSC	Per 100 people with the same characteristics	2022	2.3		
+A	Annual	ITG1	Sicilia	0_CHRONIC_GASTR	Chronic patients - suffering from gastric or duodenal ulcer	HSC	Per 100 people with the same characteristics	2023	2.1		
+A	Annual	ITG2	Sardegna	0_GOOD_H	Persons by health conditions and the presence of  chronic diseases: persons  in good health	HSC	Per 100 people with the same characteristics	2022	66.4		
+A	Annual	ITG2	Sardegna	0_GOOD_H	Persons by health conditions and the presence of  chronic diseases: persons  in good health	HSC	Per 100 people with the same characteristics	2023	63.1		
+A	Annual	ITG2	Sardegna	0_ALEAST_1CRON	Persons by health conditions and the presence of  chronic diseases: persons  at least a chronic disease	HSC	Per 100 people with the same characteristics	2022	44.6		
+A	Annual	ITG2	Sardegna	0_ALEAST_1CRON	Persons by health conditions and the presence of  chronic diseases: persons  at least a chronic disease	HSC	Per 100 people with the same characteristics	2023	44.5		
+A	Annual	ITG2	Sardegna	0_ALEAST_2CRON	Persons by health conditions and the presence of  chronic diseases: persons  at least two chronic disease	HSC	Per 100 people with the same characteristics	2022	25.2		
+A	Annual	ITG2	Sardegna	0_ALEAST_2CRON	Persons by health conditions and the presence of  chronic diseases: persons  at least two chronic disease	HSC	Per 100 people with the same characteristics	2023	25.3		
+A	Annual	ITG2	Sardegna	0_CHRONIC_GH	Persons  with chronic diseases in good health	HSC	Per 100 people with the same characteristics	2022	42.9		
+A	Annual	ITG2	Sardegna	0_CHRONIC_GH	Persons  with chronic diseases in good health	HSC	Per 100 people with the same characteristics	2023	38.3		
+A	Annual	ITG2	Sardegna	0_CHRONIC_DIAB	Chronic patients - suffering from diabetes	HSC	Per 100 people with the same characteristics	2022	6.5		
+A	Annual	ITG2	Sardegna	0_CHRONIC_DIAB	Chronic patients - suffering from diabetes	HSC	Per 100 people with the same characteristics	2023	6.1		
+A	Annual	ITG2	Sardegna	0_CHRONIC_HYP	Chronic patients - with hypertension	HSC	Per 100 people with the same characteristics	2022	19.1		
+A	Annual	ITG2	Sardegna	0_CHRONIC_HYP	Chronic patients - with hypertension	HSC	Per 100 people with the same characteristics	2023	19.2		
+A	Annual	ITG2	Sardegna	0_CHRONIC_BRONC	Chronic patients - suffering from chronic bronchitis	HSC	Per 100 people with the same characteristics	2022	7.8		
+A	Annual	ITG2	Sardegna	0_CHRONIC_BRONC	Chronic patients - suffering from chronic bronchitis	HSC	Per 100 people with the same characteristics	2023	7.2		
+A	Annual	ITG2	Sardegna	0_CHRONIC_ARTH	Chronic patients - suffering from osteoarthritis, arthritis	HSC	Per 100 people with the same characteristics	2022	17.7		
+A	Annual	ITG2	Sardegna	0_CHRONIC_ARTH	Chronic patients - suffering from osteoarthritis, arthritis	HSC	Per 100 people with the same characteristics	2023	18.1		
+A	Annual	ITG2	Sardegna	0_CHRONIC_OSTEO	Chronic patients - with osteoporosis	HSC	Per 100 people with the same characteristics	2022	12.5		
+A	Annual	ITG2	Sardegna	0_CHRONIC_OSTEO	Chronic patients - with osteoporosis	HSC	Per 100 people with the same characteristics	2023	10		
+A	Annual	ITG2	Sardegna	0_CHRONIC_HEART	Chronic patients - suffering from heart disease	HSC	Per 100 people with the same characteristics	2022	4.3		
+A	Annual	ITG2	Sardegna	0_CHRONIC_HEART	Chronic patients - suffering from heart disease	HSC	Per 100 people with the same characteristics	2023	4.5		
+A	Annual	ITG2	Sardegna	0_CHRONIC_ALLER	Chronic patients - suffering from allergic diseases	HSC	Per 100 people with the same characteristics	2022	13.2		
+A	Annual	ITG2	Sardegna	0_CHRONIC_ALLER	Chronic patients - suffering from allergic diseases	HSC	Per 100 people with the same characteristics	2023	13.2		
+A	Annual	ITG2	Sardegna	0_CHRONIC_NERVOUS	Chronic patients - suffering from nervous disorders	HSC	Per 100 people with the same characteristics	2022	6		
+A	Annual	ITG2	Sardegna	0_CHRONIC_NERVOUS	Chronic patients - suffering from nervous disorders	HSC	Per 100 people with the same characteristics	2023	5		
+A	Annual	ITG2	Sardegna	0_CHRONIC_GASTR	Chronic patients - suffering from gastric or duodenal ulcer	HSC	Per 100 people with the same characteristics	2022	2.2		
+A	Annual	ITG2	Sardegna	0_CHRONIC_GASTR	Chronic patients - suffering from gastric or duodenal ulcer	HSC	Per 100 people with the same characteristics	2023	1.5		
+A	Annual	2	Metropolitan area - centre	0_GOOD_H	Persons by health conditions and the presence of  chronic diseases: persons  in good health	HSC	Per 100 people with the same characteristics	2022	70		
+A	Annual	2	Metropolitan area - centre	0_GOOD_H	Persons by health conditions and the presence of  chronic diseases: persons  in good health	HSC	Per 100 people with the same characteristics	2023	67.4		
+A	Annual	2	Metropolitan area - centre	0_ALEAST_1CRON	Persons by health conditions and the presence of  chronic diseases: persons  at least a chronic disease	HSC	Per 100 people with the same characteristics	2022	41.4		
+A	Annual	2	Metropolitan area - centre	0_ALEAST_1CRON	Persons by health conditions and the presence of  chronic diseases: persons  at least a chronic disease	HSC	Per 100 people with the same characteristics	2023	41.4		
+A	Annual	2	Metropolitan area - centre	0_ALEAST_2CRON	Persons by health conditions and the presence of  chronic diseases: persons  at least two chronic disease	HSC	Per 100 people with the same characteristics	2022	23.3		
+A	Annual	2	Metropolitan area - centre	0_ALEAST_2CRON	Persons by health conditions and the presence of  chronic diseases: persons  at least two chronic disease	HSC	Per 100 people with the same characteristics	2023	22.1		
+A	Annual	2	Metropolitan area - centre	0_CHRONIC_GH	Persons  with chronic diseases in good health	HSC	Per 100 people with the same characteristics	2022	44.7		
+A	Annual	2	Metropolitan area - centre	0_CHRONIC_GH	Persons  with chronic diseases in good health	HSC	Per 100 people with the same characteristics	2023	40.7		
+A	Annual	2	Metropolitan area - centre	0_CHRONIC_DIAB	Chronic patients - suffering from diabetes	HSC	Per 100 people with the same characteristics	2022	7		
+A	Annual	2	Metropolitan area - centre	0_CHRONIC_DIAB	Chronic patients - suffering from diabetes	HSC	Per 100 people with the same characteristics	2023	6		
+A	Annual	2	Metropolitan area - centre	0_CHRONIC_HYP	Chronic patients - with hypertension	HSC	Per 100 people with the same characteristics	2022	19.1		
+A	Annual	2	Metropolitan area - centre	0_CHRONIC_HYP	Chronic patients - with hypertension	HSC	Per 100 people with the same characteristics	2023	19.7		
+A	Annual	2	Metropolitan area - centre	0_CHRONIC_BRONC	Chronic patients - suffering from chronic bronchitis	HSC	Per 100 people with the same characteristics	2022	6.7		
+A	Annual	2	Metropolitan area - centre	0_CHRONIC_BRONC	Chronic patients - suffering from chronic bronchitis	HSC	Per 100 people with the same characteristics	2023	6.4		
+A	Annual	2	Metropolitan area - centre	0_CHRONIC_ARTH	Chronic patients - suffering from osteoarthritis, arthritis	HSC	Per 100 people with the same characteristics	2022	15.2		
+A	Annual	2	Metropolitan area - centre	0_CHRONIC_ARTH	Chronic patients - suffering from osteoarthritis, arthritis	HSC	Per 100 people with the same characteristics	2023	15.4		
+A	Annual	2	Metropolitan area - centre	0_CHRONIC_OSTEO	Chronic patients - with osteoporosis	HSC	Per 100 people with the same characteristics	2022	9.7		
+A	Annual	2	Metropolitan area - centre	0_CHRONIC_OSTEO	Chronic patients - with osteoporosis	HSC	Per 100 people with the same characteristics	2023	8.8		
+A	Annual	2	Metropolitan area - centre	0_CHRONIC_HEART	Chronic patients - suffering from heart disease	HSC	Per 100 people with the same characteristics	2022	4.5		
+A	Annual	2	Metropolitan area - centre	0_CHRONIC_HEART	Chronic patients - suffering from heart disease	HSC	Per 100 people with the same characteristics	2023	3.8		
+A	Annual	2	Metropolitan area - centre	0_CHRONIC_ALLER	Chronic patients - suffering from allergic diseases	HSC	Per 100 people with the same characteristics	2022	12.9		
+A	Annual	2	Metropolitan area - centre	0_CHRONIC_ALLER	Chronic patients - suffering from allergic diseases	HSC	Per 100 people with the same characteristics	2023	10.9		
+A	Annual	2	Metropolitan area - centre	0_CHRONIC_NERVOUS	Chronic patients - suffering from nervous disorders	HSC	Per 100 people with the same characteristics	2022	4.8		
+A	Annual	2	Metropolitan area - centre	0_CHRONIC_NERVOUS	Chronic patients - suffering from nervous disorders	HSC	Per 100 people with the same characteristics	2023	5.2		
+A	Annual	2	Metropolitan area - centre	0_CHRONIC_GASTR	Chronic patients - suffering from gastric or duodenal ulcer	HSC	Per 100 people with the same characteristics	2022	1.8		
+A	Annual	2	Metropolitan area - centre	0_CHRONIC_GASTR	Chronic patients - suffering from gastric or duodenal ulcer	HSC	Per 100 people with the same characteristics	2023	2.2		
+A	Annual	3	Metropolitan area - suburbs	0_GOOD_H	Persons by health conditions and the presence of  chronic diseases: persons  in good health	HSC	Per 100 people with the same characteristics	2022	73.1		
+A	Annual	3	Metropolitan area - suburbs	0_GOOD_H	Persons by health conditions and the presence of  chronic diseases: persons  in good health	HSC	Per 100 people with the same characteristics	2023	70.9		
+A	Annual	3	Metropolitan area - suburbs	0_ALEAST_1CRON	Persons by health conditions and the presence of  chronic diseases: persons  at least a chronic disease	HSC	Per 100 people with the same characteristics	2022	40.1		
+A	Annual	3	Metropolitan area - suburbs	0_ALEAST_1CRON	Persons by health conditions and the presence of  chronic diseases: persons  at least a chronic disease	HSC	Per 100 people with the same characteristics	2023	39.5		
+A	Annual	3	Metropolitan area - suburbs	0_ALEAST_2CRON	Persons by health conditions and the presence of  chronic diseases: persons  at least two chronic disease	HSC	Per 100 people with the same characteristics	2022	20.8		
+A	Annual	3	Metropolitan area - suburbs	0_ALEAST_2CRON	Persons by health conditions and the presence of  chronic diseases: persons  at least two chronic disease	HSC	Per 100 people with the same characteristics	2023	19.9		
+A	Annual	3	Metropolitan area - suburbs	0_CHRONIC_GH	Persons  with chronic diseases in good health	HSC	Per 100 people with the same characteristics	2022	48.4		
+A	Annual	3	Metropolitan area - suburbs	0_CHRONIC_GH	Persons  with chronic diseases in good health	HSC	Per 100 people with the same characteristics	2023	43		
+A	Annual	3	Metropolitan area - suburbs	0_CHRONIC_DIAB	Chronic patients - suffering from diabetes	HSC	Per 100 people with the same characteristics	2022	6.4		
+A	Annual	3	Metropolitan area - suburbs	0_CHRONIC_DIAB	Chronic patients - suffering from diabetes	HSC	Per 100 people with the same characteristics	2023	6.3		
+A	Annual	3	Metropolitan area - suburbs	0_CHRONIC_HYP	Chronic patients - with hypertension	HSC	Per 100 people with the same characteristics	2022	18.4		
+A	Annual	3	Metropolitan area - suburbs	0_CHRONIC_HYP	Chronic patients - with hypertension	HSC	Per 100 people with the same characteristics	2023	18.3		
+A	Annual	3	Metropolitan area - suburbs	0_CHRONIC_BRONC	Chronic patients - suffering from chronic bronchitis	HSC	Per 100 people with the same characteristics	2022	6.2		
+A	Annual	3	Metropolitan area - suburbs	0_CHRONIC_BRONC	Chronic patients - suffering from chronic bronchitis	HSC	Per 100 people with the same characteristics	2023	6.5		
+A	Annual	3	Metropolitan area - suburbs	0_CHRONIC_ARTH	Chronic patients - suffering from osteoarthritis, arthritis	HSC	Per 100 people with the same characteristics	2022	13.8		
+A	Annual	3	Metropolitan area - suburbs	0_CHRONIC_ARTH	Chronic patients - suffering from osteoarthritis, arthritis	HSC	Per 100 people with the same characteristics	2023	13.4		
+A	Annual	3	Metropolitan area - suburbs	0_CHRONIC_OSTEO	Chronic patients - with osteoporosis	HSC	Per 100 people with the same characteristics	2022	7.6		
+A	Annual	3	Metropolitan area - suburbs	0_CHRONIC_OSTEO	Chronic patients - with osteoporosis	HSC	Per 100 people with the same characteristics	2023	6.8		
+A	Annual	3	Metropolitan area - suburbs	0_CHRONIC_HEART	Chronic patients - suffering from heart disease	HSC	Per 100 people with the same characteristics	2022	3.7		
+A	Annual	3	Metropolitan area - suburbs	0_CHRONIC_HEART	Chronic patients - suffering from heart disease	HSC	Per 100 people with the same characteristics	2023	3.7		
+A	Annual	3	Metropolitan area - suburbs	0_CHRONIC_ALLER	Chronic patients - suffering from allergic diseases	HSC	Per 100 people with the same characteristics	2022	12.9		
+A	Annual	3	Metropolitan area - suburbs	0_CHRONIC_ALLER	Chronic patients - suffering from allergic diseases	HSC	Per 100 people with the same characteristics	2023	12		
+A	Annual	3	Metropolitan area - suburbs	0_CHRONIC_NERVOUS	Chronic patients - suffering from nervous disorders	HSC	Per 100 people with the same characteristics	2022	4.2		
+A	Annual	3	Metropolitan area - suburbs	0_CHRONIC_NERVOUS	Chronic patients - suffering from nervous disorders	HSC	Per 100 people with the same characteristics	2023	3.9		
+A	Annual	3	Metropolitan area - suburbs	0_CHRONIC_GASTR	Chronic patients - suffering from gastric or duodenal ulcer	HSC	Per 100 people with the same characteristics	2022	1.9		
+A	Annual	3	Metropolitan area - suburbs	0_CHRONIC_GASTR	Chronic patients - suffering from gastric or duodenal ulcer	HSC	Per 100 people with the same characteristics	2023	1.7		
+A	Annual	6	Until 2,000 inhab.	0_GOOD_H	Persons by health conditions and the presence of  chronic diseases: persons  in good health	HSC	Per 100 people with the same characteristics	2022	66.4		
+A	Annual	6	Until 2,000 inhab.	0_GOOD_H	Persons by health conditions and the presence of  chronic diseases: persons  in good health	HSC	Per 100 people with the same characteristics	2023	66.3		
+A	Annual	6	Until 2,000 inhab.	0_ALEAST_1CRON	Persons by health conditions and the presence of  chronic diseases: persons  at least a chronic disease	HSC	Per 100 people with the same characteristics	2022	42.4		
+A	Annual	6	Until 2,000 inhab.	0_ALEAST_1CRON	Persons by health conditions and the presence of  chronic diseases: persons  at least a chronic disease	HSC	Per 100 people with the same characteristics	2023	42.2		
+A	Annual	6	Until 2,000 inhab.	0_ALEAST_2CRON	Persons by health conditions and the presence of  chronic diseases: persons  at least two chronic disease	HSC	Per 100 people with the same characteristics	2022	22.8		
+A	Annual	6	Until 2,000 inhab.	0_ALEAST_2CRON	Persons by health conditions and the presence of  chronic diseases: persons  at least two chronic disease	HSC	Per 100 people with the same characteristics	2023	22.3		
+A	Annual	6	Until 2,000 inhab.	0_CHRONIC_GH	Persons  with chronic diseases in good health	HSC	Per 100 people with the same characteristics	2022	40.3		
+A	Annual	6	Until 2,000 inhab.	0_CHRONIC_GH	Persons  with chronic diseases in good health	HSC	Per 100 people with the same characteristics	2023	40.1		
+A	Annual	6	Until 2,000 inhab.	0_CHRONIC_DIAB	Chronic patients - suffering from diabetes	HSC	Per 100 people with the same characteristics	2022	6.3		
+A	Annual	6	Until 2,000 inhab.	0_CHRONIC_DIAB	Chronic patients - suffering from diabetes	HSC	Per 100 people with the same characteristics	2023	7.4		
+A	Annual	6	Until 2,000 inhab.	0_CHRONIC_HYP	Chronic patients - with hypertension	HSC	Per 100 people with the same characteristics	2022	19.7		
+A	Annual	6	Until 2,000 inhab.	0_CHRONIC_HYP	Chronic patients - with hypertension	HSC	Per 100 people with the same characteristics	2023	21.1		
+A	Annual	6	Until 2,000 inhab.	0_CHRONIC_BRONC	Chronic patients - suffering from chronic bronchitis	HSC	Per 100 people with the same characteristics	2022	6.3		
+A	Annual	6	Until 2,000 inhab.	0_CHRONIC_BRONC	Chronic patients - suffering from chronic bronchitis	HSC	Per 100 people with the same characteristics	2023	6.4		
+A	Annual	6	Until 2,000 inhab.	0_CHRONIC_ARTH	Chronic patients - suffering from osteoarthritis, arthritis	HSC	Per 100 people with the same characteristics	2022	17.9		
+A	Annual	6	Until 2,000 inhab.	0_CHRONIC_ARTH	Chronic patients - suffering from osteoarthritis, arthritis	HSC	Per 100 people with the same characteristics	2023	16.3		
+A	Annual	6	Until 2,000 inhab.	0_CHRONIC_OSTEO	Chronic patients - with osteoporosis	HSC	Per 100 people with the same characteristics	2022	8		
+A	Annual	6	Until 2,000 inhab.	0_CHRONIC_OSTEO	Chronic patients - with osteoporosis	HSC	Per 100 people with the same characteristics	2023	8.5		
+A	Annual	6	Until 2,000 inhab.	0_CHRONIC_HEART	Chronic patients - suffering from heart disease	HSC	Per 100 people with the same characteristics	2022	5.2		
+A	Annual	6	Until 2,000 inhab.	0_CHRONIC_HEART	Chronic patients - suffering from heart disease	HSC	Per 100 people with the same characteristics	2023	5.8		
+A	Annual	6	Until 2,000 inhab.	0_CHRONIC_ALLER	Chronic patients - suffering from allergic diseases	HSC	Per 100 people with the same characteristics	2022	11.1		
+A	Annual	6	Until 2,000 inhab.	0_CHRONIC_ALLER	Chronic patients - suffering from allergic diseases	HSC	Per 100 people with the same characteristics	2023	9.1		
+A	Annual	6	Until 2,000 inhab.	0_CHRONIC_NERVOUS	Chronic patients - suffering from nervous disorders	HSC	Per 100 people with the same characteristics	2022	6.2		
+A	Annual	6	Until 2,000 inhab.	0_CHRONIC_NERVOUS	Chronic patients - suffering from nervous disorders	HSC	Per 100 people with the same characteristics	2023	5.1		
+A	Annual	6	Until 2,000 inhab.	0_CHRONIC_GASTR	Chronic patients - suffering from gastric or duodenal ulcer	HSC	Per 100 people with the same characteristics	2022	2.3		
+A	Annual	6	Until 2,000 inhab.	0_CHRONIC_GASTR	Chronic patients - suffering from gastric or duodenal ulcer	HSC	Per 100 people with the same characteristics	2023	2.7		
+A	Annual	7	2,001 - 10,000 inhab.	0_GOOD_H	Persons by health conditions and the presence of  chronic diseases: persons  in good health	HSC	Per 100 people with the same characteristics	2022	70.2		
+A	Annual	7	2,001 - 10,000 inhab.	0_GOOD_H	Persons by health conditions and the presence of  chronic diseases: persons  in good health	HSC	Per 100 people with the same characteristics	2023	68.1		
+A	Annual	7	2,001 - 10,000 inhab.	0_ALEAST_1CRON	Persons by health conditions and the presence of  chronic diseases: persons  at least a chronic disease	HSC	Per 100 people with the same characteristics	2022	39.9		
+A	Annual	7	2,001 - 10,000 inhab.	0_ALEAST_1CRON	Persons by health conditions and the presence of  chronic diseases: persons  at least a chronic disease	HSC	Per 100 people with the same characteristics	2023	40.6		
+A	Annual	7	2,001 - 10,000 inhab.	0_ALEAST_2CRON	Persons by health conditions and the presence of  chronic diseases: persons  at least two chronic disease	HSC	Per 100 people with the same characteristics	2022	21		
+A	Annual	7	2,001 - 10,000 inhab.	0_ALEAST_2CRON	Persons by health conditions and the presence of  chronic diseases: persons  at least two chronic disease	HSC	Per 100 people with the same characteristics	2023	21		
+A	Annual	7	2,001 - 10,000 inhab.	0_CHRONIC_GH	Persons  with chronic diseases in good health	HSC	Per 100 people with the same characteristics	2022	44.8		
+A	Annual	7	2,001 - 10,000 inhab.	0_CHRONIC_GH	Persons  with chronic diseases in good health	HSC	Per 100 people with the same characteristics	2023	42.5		
+A	Annual	7	2,001 - 10,000 inhab.	0_CHRONIC_DIAB	Chronic patients - suffering from diabetes	HSC	Per 100 people with the same characteristics	2022	6.7		
+A	Annual	7	2,001 - 10,000 inhab.	0_CHRONIC_DIAB	Chronic patients - suffering from diabetes	HSC	Per 100 people with the same characteristics	2023	6.8		
+A	Annual	7	2,001 - 10,000 inhab.	0_CHRONIC_HYP	Chronic patients - with hypertension	HSC	Per 100 people with the same characteristics	2022	18.7		
+A	Annual	7	2,001 - 10,000 inhab.	0_CHRONIC_HYP	Chronic patients - with hypertension	HSC	Per 100 people with the same characteristics	2023	19		
+A	Annual	7	2,001 - 10,000 inhab.	0_CHRONIC_BRONC	Chronic patients - suffering from chronic bronchitis	HSC	Per 100 people with the same characteristics	2022	6.2		
+A	Annual	7	2,001 - 10,000 inhab.	0_CHRONIC_BRONC	Chronic patients - suffering from chronic bronchitis	HSC	Per 100 people with the same characteristics	2023	6.3		
+A	Annual	7	2,001 - 10,000 inhab.	0_CHRONIC_ARTH	Chronic patients - suffering from osteoarthritis, arthritis	HSC	Per 100 people with the same characteristics	2022	14.5		
+A	Annual	7	2,001 - 10,000 inhab.	0_CHRONIC_ARTH	Chronic patients - suffering from osteoarthritis, arthritis	HSC	Per 100 people with the same characteristics	2023	15.1		
+A	Annual	7	2,001 - 10,000 inhab.	0_CHRONIC_OSTEO	Chronic patients - with osteoporosis	HSC	Per 100 people with the same characteristics	2022	7.1		
+A	Annual	7	2,001 - 10,000 inhab.	0_CHRONIC_OSTEO	Chronic patients - with osteoporosis	HSC	Per 100 people with the same characteristics	2023	7.3		
+A	Annual	7	2,001 - 10,000 inhab.	0_CHRONIC_HEART	Chronic patients - suffering from heart disease	HSC	Per 100 people with the same characteristics	2022	4.4		
+A	Annual	7	2,001 - 10,000 inhab.	0_CHRONIC_HEART	Chronic patients - suffering from heart disease	HSC	Per 100 people with the same characteristics	2023	4.6		
+A	Annual	7	2,001 - 10,000 inhab.	0_CHRONIC_ALLER	Chronic patients - suffering from allergic diseases	HSC	Per 100 people with the same characteristics	2022	11		
+A	Annual	7	2,001 - 10,000 inhab.	0_CHRONIC_ALLER	Chronic patients - suffering from allergic diseases	HSC	Per 100 people with the same characteristics	2023	10.3		
+A	Annual	7	2,001 - 10,000 inhab.	0_CHRONIC_NERVOUS	Chronic patients - suffering from nervous disorders	HSC	Per 100 people with the same characteristics	2022	4.5		
+A	Annual	7	2,001 - 10,000 inhab.	0_CHRONIC_NERVOUS	Chronic patients - suffering from nervous disorders	HSC	Per 100 people with the same characteristics	2023	5.1		
+A	Annual	7	2,001 - 10,000 inhab.	0_CHRONIC_GASTR	Chronic patients - suffering from gastric or duodenal ulcer	HSC	Per 100 people with the same characteristics	2022	2.5		
+A	Annual	7	2,001 - 10,000 inhab.	0_CHRONIC_GASTR	Chronic patients - suffering from gastric or duodenal ulcer	HSC	Per 100 people with the same characteristics	2023	1.8		
+A	Annual	8	10,001 - 50,000 inhab.	0_GOOD_H	Persons by health conditions and the presence of  chronic diseases: persons  in good health	HSC	Per 100 people with the same characteristics	2022	70.1		
+A	Annual	8	10,001 - 50,000 inhab.	0_GOOD_H	Persons by health conditions and the presence of  chronic diseases: persons  in good health	HSC	Per 100 people with the same characteristics	2023	69.1		
+A	Annual	8	10,001 - 50,000 inhab.	0_ALEAST_1CRON	Persons by health conditions and the presence of  chronic diseases: persons  at least a chronic disease	HSC	Per 100 people with the same characteristics	2022	40.1		
+A	Annual	8	10,001 - 50,000 inhab.	0_ALEAST_1CRON	Persons by health conditions and the presence of  chronic diseases: persons  at least a chronic disease	HSC	Per 100 people with the same characteristics	2023	39.6		
+A	Annual	8	10,001 - 50,000 inhab.	0_ALEAST_2CRON	Persons by health conditions and the presence of  chronic diseases: persons  at least two chronic disease	HSC	Per 100 people with the same characteristics	2022	20.9		
+A	Annual	8	10,001 - 50,000 inhab.	0_ALEAST_2CRON	Persons by health conditions and the presence of  chronic diseases: persons  at least two chronic disease	HSC	Per 100 people with the same characteristics	2023	20.1		
+A	Annual	8	10,001 - 50,000 inhab.	0_CHRONIC_GH	Persons  with chronic diseases in good health	HSC	Per 100 people with the same characteristics	2022	44.2		
+A	Annual	8	10,001 - 50,000 inhab.	0_CHRONIC_GH	Persons  with chronic diseases in good health	HSC	Per 100 people with the same characteristics	2023	44.5		
+A	Annual	8	10,001 - 50,000 inhab.	0_CHRONIC_DIAB	Chronic patients - suffering from diabetes	HSC	Per 100 people with the same characteristics	2022	6.6		
+A	Annual	8	10,001 - 50,000 inhab.	0_CHRONIC_DIAB	Chronic patients - suffering from diabetes	HSC	Per 100 people with the same characteristics	2023	5.8		
+A	Annual	8	10,001 - 50,000 inhab.	0_CHRONIC_HYP	Chronic patients - with hypertension	HSC	Per 100 people with the same characteristics	2022	18		
+A	Annual	8	10,001 - 50,000 inhab.	0_CHRONIC_HYP	Chronic patients - with hypertension	HSC	Per 100 people with the same characteristics	2023	18.3		
+A	Annual	8	10,001 - 50,000 inhab.	0_CHRONIC_BRONC	Chronic patients - suffering from chronic bronchitis	HSC	Per 100 people with the same characteristics	2022	6		
+A	Annual	8	10,001 - 50,000 inhab.	0_CHRONIC_BRONC	Chronic patients - suffering from chronic bronchitis	HSC	Per 100 people with the same characteristics	2023	5.6		
+A	Annual	8	10,001 - 50,000 inhab.	0_CHRONIC_ARTH	Chronic patients - suffering from osteoarthritis, arthritis	HSC	Per 100 people with the same characteristics	2022	14.6		
+A	Annual	8	10,001 - 50,000 inhab.	0_CHRONIC_ARTH	Chronic patients - suffering from osteoarthritis, arthritis	HSC	Per 100 people with the same characteristics	2023	14		
+A	Annual	8	10,001 - 50,000 inhab.	0_CHRONIC_OSTEO	Chronic patients - with osteoporosis	HSC	Per 100 people with the same characteristics	2022	7.4		
+A	Annual	8	10,001 - 50,000 inhab.	0_CHRONIC_OSTEO	Chronic patients - with osteoporosis	HSC	Per 100 people with the same characteristics	2023	7.9		
+A	Annual	8	10,001 - 50,000 inhab.	0_CHRONIC_HEART	Chronic patients - suffering from heart disease	HSC	Per 100 people with the same characteristics	2022	3.9		
+A	Annual	8	10,001 - 50,000 inhab.	0_CHRONIC_HEART	Chronic patients - suffering from heart disease	HSC	Per 100 people with the same characteristics	2023	4.1		
+A	Annual	8	10,001 - 50,000 inhab.	0_CHRONIC_ALLER	Chronic patients - suffering from allergic diseases	HSC	Per 100 people with the same characteristics	2022	11.5		
+A	Annual	8	10,001 - 50,000 inhab.	0_CHRONIC_ALLER	Chronic patients - suffering from allergic diseases	HSC	Per 100 people with the same characteristics	2023	11.3		
+A	Annual	8	10,001 - 50,000 inhab.	0_CHRONIC_NERVOUS	Chronic patients - suffering from nervous disorders	HSC	Per 100 people with the same characteristics	2022	4.8		
+A	Annual	8	10,001 - 50,000 inhab.	0_CHRONIC_NERVOUS	Chronic patients - suffering from nervous disorders	HSC	Per 100 people with the same characteristics	2023	4.6		
+A	Annual	8	10,001 - 50,000 inhab.	0_CHRONIC_GASTR	Chronic patients - suffering from gastric or duodenal ulcer	HSC	Per 100 people with the same characteristics	2022	2.2		
+A	Annual	8	10,001 - 50,000 inhab.	0_CHRONIC_GASTR	Chronic patients - suffering from gastric or duodenal ulcer	HSC	Per 100 people with the same characteristics	2023	2		
+A	Annual	9	50,001 inhab. and over	0_GOOD_H	Persons by health conditions and the presence of  chronic diseases: persons  in good health	HSC	Per 100 people with the same characteristics	2022	69.2		
+A	Annual	9	50,001 inhab. and over	0_GOOD_H	Persons by health conditions and the presence of  chronic diseases: persons  in good health	HSC	Per 100 people with the same characteristics	2023	69.1		
+A	Annual	9	50,001 inhab. and over	0_ALEAST_1CRON	Persons by health conditions and the presence of  chronic diseases: persons  at least a chronic disease	HSC	Per 100 people with the same characteristics	2022	40.4		
+A	Annual	9	50,001 inhab. and over	0_ALEAST_1CRON	Persons by health conditions and the presence of  chronic diseases: persons  at least a chronic disease	HSC	Per 100 people with the same characteristics	2023	41		
+A	Annual	9	50,001 inhab. and over	0_ALEAST_2CRON	Persons by health conditions and the presence of  chronic diseases: persons  at least two chronic disease	HSC	Per 100 people with the same characteristics	2022	21.7		
+A	Annual	9	50,001 inhab. and over	0_ALEAST_2CRON	Persons by health conditions and the presence of  chronic diseases: persons  at least two chronic disease	HSC	Per 100 people with the same characteristics	2023	20.7		
+A	Annual	9	50,001 inhab. and over	0_CHRONIC_GH	Persons  with chronic diseases in good health	HSC	Per 100 people with the same characteristics	2022	43.4		
+A	Annual	9	50,001 inhab. and over	0_CHRONIC_GH	Persons  with chronic diseases in good health	HSC	Per 100 people with the same characteristics	2023	43.9		
+A	Annual	9	50,001 inhab. and over	0_CHRONIC_DIAB	Chronic patients - suffering from diabetes	HSC	Per 100 people with the same characteristics	2022	6.6		
+A	Annual	9	50,001 inhab. and over	0_CHRONIC_DIAB	Chronic patients - suffering from diabetes	HSC	Per 100 people with the same characteristics	2023	6.1		
+A	Annual	9	50,001 inhab. and over	0_CHRONIC_HYP	Chronic patients - with hypertension	HSC	Per 100 people with the same characteristics	2022	18.7		
+A	Annual	9	50,001 inhab. and over	0_CHRONIC_HYP	Chronic patients - with hypertension	HSC	Per 100 people with the same characteristics	2023	19.1		
+A	Annual	9	50,001 inhab. and over	0_CHRONIC_BRONC	Chronic patients - suffering from chronic bronchitis	HSC	Per 100 people with the same characteristics	2022	6.3		
+A	Annual	9	50,001 inhab. and over	0_CHRONIC_BRONC	Chronic patients - suffering from chronic bronchitis	HSC	Per 100 people with the same characteristics	2023	6		
+A	Annual	9	50,001 inhab. and over	0_CHRONIC_ARTH	Chronic patients - suffering from osteoarthritis, arthritis	HSC	Per 100 people with the same characteristics	2022	15.5		
+A	Annual	9	50,001 inhab. and over	0_CHRONIC_ARTH	Chronic patients - suffering from osteoarthritis, arthritis	HSC	Per 100 people with the same characteristics	2023	15		
+A	Annual	9	50,001 inhab. and over	0_CHRONIC_OSTEO	Chronic patients - with osteoporosis	HSC	Per 100 people with the same characteristics	2022	8.2		
+A	Annual	9	50,001 inhab. and over	0_CHRONIC_OSTEO	Chronic patients - with osteoporosis	HSC	Per 100 people with the same characteristics	2023	7.3		
+A	Annual	9	50,001 inhab. and over	0_CHRONIC_HEART	Chronic patients - suffering from heart disease	HSC	Per 100 people with the same characteristics	2022	4.4		
+A	Annual	9	50,001 inhab. and over	0_CHRONIC_HEART	Chronic patients - suffering from heart disease	HSC	Per 100 people with the same characteristics	2023	4.7		
+A	Annual	9	50,001 inhab. and over	0_CHRONIC_ALLER	Chronic patients - suffering from allergic diseases	HSC	Per 100 people with the same characteristics	2022	11.1		
+A	Annual	9	50,001 inhab. and over	0_CHRONIC_ALLER	Chronic patients - suffering from allergic diseases	HSC	Per 100 people with the same characteristics	2023	10.6		
+A	Annual	9	50,001 inhab. and over	0_CHRONIC_NERVOUS	Chronic patients - suffering from nervous disorders	HSC	Per 100 people with the same characteristics	2022	4.7		
+A	Annual	9	50,001 inhab. and over	0_CHRONIC_NERVOUS	Chronic patients - suffering from nervous disorders	HSC	Per 100 people with the same characteristics	2023	4.3		
+A	Annual	9	50,001 inhab. and over	0_CHRONIC_GASTR	Chronic patients - suffering from gastric or duodenal ulcer	HSC	Per 100 people with the same characteristics	2022	1.8		
+A	Annual	9	50,001 inhab. and over	0_CHRONIC_GASTR	Chronic patients - suffering from gastric or duodenal ulcer	HSC	Per 100 people with the same characteristics	2023	1.9		
